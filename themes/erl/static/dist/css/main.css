@@ -1,0 +1,56 @@
+.header {
+	background-color: rgb(0, 0, 0);
+}
+
+.card-media {
+	padding-top: 23px;
+	padding-left: 23px;
+	padding-bottom: 23px;
+}
+
+.card-header {
+	font-family: "Courier New", Courier, monospace !important;
+	margin-top:-5px;
+	font-size: 24px;
+	padding-left: 23px;
+	font-weight: bold;
+}
+
+.card-date {
+	font-family: "Courier New", Courier, monospace !important;
+	font-size:15px;
+	margin-top:-5px;
+	padding-left:23px;
+	color:rgb(100, 100, 100);
+}
+
+.card-source {
+	font-family: "Courier New", Courier, monospace !important;
+	font-size:12px;
+	padding-left:23px;
+	color: rgb(150, 150, 150);
+}
+
+.card-description {
+	font-family: "Courier New", Courier, monospace !important;
+	padding-left:23px;
+	margin-top:23px;
+}
+
+.card-spacer {
+	font-family: "Courier New", Courier, monospace !important;
+	padding-left:23px;
+	margin-top:23px;
+}
+
+.card-content {
+	font-family: "Courier New", Courier, monospace !important;
+	padding-left:23px;
+	width: 640px;
+}
+
+.listing {
+	font-family: "Courier New", Courier, monospace !important;
+	list-style: none;
+	padding-left:23px;
+}

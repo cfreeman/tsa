@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+<meta name="viewport" content="width=device-width,minimum-scale=1">
+<meta name="theme-color" content="#ab342b">
+
+{{- template "_internal/opengraph.html" . -}}
+{{- template "_internal/schema.html" . -}}
+{{- template "_internal/twitter_cards.html" . -}}
+
+<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
+
+<link rel="stylesheet" href="/erl/dist/css/main.css">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.json">
+</head>
+<body>
+<div id="layout">
+  {{ block "header" . }}{{ partial "page-header.html" .}}{{ end }}
+  <div id="main">
+    {{ block "main" . }}{{ end }}
+  </div>
+</div>
+</body>
+</html>
+

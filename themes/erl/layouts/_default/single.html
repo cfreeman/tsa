@@ -1,0 +1,52 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file be defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+
+<div class="pure-g">
+  <div class="pure-u-1-1 card-media">
+    {{ $url := index .Params.videos 0 }}
+
+    {{ if eq (substr $url 8 5) "vimeo" }}
+      {{ $id := index (last 1 (split $url "/")) 0 }}
+      <iframe width="640" height="360" src="https://player.vimeo.com/video/{{ $id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {{ end }}
+
+    {{ if eq (substr $url 8 7) "youtube" }}
+      {{ $id := index (last 1 (split (index (last 1 (split $url "/")) 0) "=")) 0 }}
+      <iframe width="640" height="360" src="https://www.youtube.com/embed/{{ $id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {{ end }}
+  </div>
+</div>
+
+<div class="pure-g">
+  <div class="pure-u-1-1 card-header">{{- .Title -}} ({{- .Type -}})</div>
+</div>
+<div class="pure-g">
+  <div class="pure-u-1-1 card-date">
+    {{- .Params.Publisher -}}.
+    <time {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+      {{- .Date.Format "January 2, 2006" -}}
+    </time>
+  </div>
+</div>
+<div class="pure-g">
+  <div class="pure-u-1-1 card-source">
+    Source:
+    {{ range $elem_index, $elem_val := .Params.videos }}
+      <a href="{{ $elem_val }}">{{ $elem_index }}</a>
+    {{ end }}
+  </div>
+</div>
+<div class="pure-g">
+  <div class="pure-u-1-1 card-description">{{- .Description -}}</div>
+</div>
+<div class="pure-g">
+  <div class="pure-u-1-1 card-spacer">*</div>
+</div>
+<div class="pure-g">
+  <div class="pure-u-1-1 card-content">{{- .Content -}}</div>
+</div>
+{{ end }}
