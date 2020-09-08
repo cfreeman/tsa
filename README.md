@@ -25,4 +25,4 @@ git push origin gh-pages
 3. Click 'Add file' and select 'Create new file'
 4. In the 'Name your file...' field enter the name of the reference card. This should be in the format YYYY-MM-DD-title.md Where YYYY is the year of the reference, MM is the month of the reference and DD is the day of the reference. Title is the title of the reference card.
 5. Fill out the metadata for the reference card.
-6.
+6. Scroll down and press commit new file.
