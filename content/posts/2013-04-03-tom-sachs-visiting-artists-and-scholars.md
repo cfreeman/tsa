@@ -12,6 +12,9 @@ videos:
 - https://vimeo.com/63487412
 - https://youtube.com/watch?v=6m2wFQMccPM
 
+people:
+- Sachs Tom
+
 ---
 
 Transcript here.

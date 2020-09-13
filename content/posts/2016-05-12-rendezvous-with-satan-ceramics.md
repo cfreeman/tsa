@@ -12,6 +12,11 @@ videos:
 - https://youtube.com/watch?v=W8JTdDR5lWY
 - https://youtube.com/watch?v=2CcvfFU-AsM
 
+people:
+- Sachs Tom
+- Walker Porous
+- Hopp David
+
 ---
 
 Transcript here.

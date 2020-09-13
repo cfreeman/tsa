@@ -11,6 +11,10 @@ description: Tom Sachs presents his ideas on authenticity as the keynote speaker
 videos:
 - https://youtube.com/watch?v=N65i64lCho4
 - https://youtube.com/watch?v=kZFPTRqe6b0
+
+people:
+- Sachs Tom
+
 ---
 
 Transcript here.

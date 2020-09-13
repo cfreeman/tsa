@@ -12,6 +12,11 @@ videos:
 - https://youtube.com/watch?v=nHAUfyQf7jU
 - https://youtube.com/watch?v=zyEU-h-ygXY
 
+people:
+- Smith Will
+- Giertz Simone
+- Sachs Tom
+
 ---
 
 Transcript here.

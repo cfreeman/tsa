@@ -11,6 +11,10 @@ description: A conversation between Adam Savage and Tom Sachs.
 videos:
 - https://youtube.com/watch?v=cxLxwbm7FMA
 
+people:
+- Sachs Tom
+- Savage Adam
+
 ---
 
 Transcript here.
