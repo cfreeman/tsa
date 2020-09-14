@@ -11,10 +11,11 @@ description: A conversation between Tom Wolfe and Tom Sachs.
 videos:
 - https://vimeo.com/141861144
 - https://youtube.com/watch?v=RebR509-tGQ
+- https://erl.one/archive/2015-10-08-tom-sachs-and-tom-wolfe.mp4
 
 people:
-- Sachs Tom
-- Wolfe Tom
+- Tom Sachs
+- Tom Wolfe
 
 ---
 

@@ -13,9 +13,9 @@ videos:
 - https://youtube.com/watch?v=zyEU-h-ygXY
 
 people:
-- Smith Will
-- Giertz Simone
-- Sachs Tom
+- Tom Sachs
+- Will Smith
+- Simone Giertz
 
 ---
 

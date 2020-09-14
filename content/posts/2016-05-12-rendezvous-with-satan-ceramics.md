@@ -13,9 +13,9 @@ videos:
 - https://youtube.com/watch?v=2CcvfFU-AsM
 
 people:
-- Sachs Tom
-- Walker Porous
-- Hopp David
+- Tom Sachs
+- Porous Walker
+- David Hopp
 
 ---
 

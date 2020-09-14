@@ -12,8 +12,8 @@ videos:
 - https://youtube.com/watch?v=tOB0YVwKl6Y
 
 people:
-- Sachs Tom
-- Errazuriz Sebastian
+- Tom Sachs
+- Sebastian Errazuriz
 
 ---
 

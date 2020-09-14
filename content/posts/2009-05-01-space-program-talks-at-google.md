@@ -12,7 +12,7 @@ videos:
 - https://youtube.com/watch?v=d5IWhSKeZdc
 
 people:
-- Sachs Tom
+- Tom Sachs
 
 ---
 
