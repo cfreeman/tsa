@@ -11,6 +11,7 @@ description: A conversation between Will Smith, Simone Giertz and Tom Sachs.
 videos:
 - https://youtube.com/watch?v=nHAUfyQf7jU
 - https://youtube.com/watch?v=zyEU-h-ygXY
+- https://erl.one/archive/2016-08-30-tom-sachs-will-smith-and-simone-giertz.mp4
 
 people:
 - Tom Sachs
