@@ -2,7 +2,7 @@
 title: Authenticity Keynote
 date: 2014-12-03T00:00:00+00:00
 draft: false
-language: end
+language: en
 publisher: The New York Times
 type: lecture
 
