@@ -4,7 +4,7 @@ date: 2012-06-05T00:00:00+00:00
 draft: false
 language: en
 publisher: lodown95
-type: walkaround
+type: tour
 
 description: A patron explores Tom Sachs' Space Program Mars at the Park Avenue Armory in New York City.
 
