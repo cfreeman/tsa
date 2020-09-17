@@ -1,5 +1,5 @@
 ---
-title: Further into Ourselves, Further into the Galazy
+title: Further into Ourselves, Further into the Galaxy
 date: 2017-09-16T00:00:00+00:00
 draft: false
 language: en
