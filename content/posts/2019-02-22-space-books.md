@@ -1,5 +1,5 @@
 ---
-title: 2019-02-22 Space Books
+title: Space Books
 date: 2019-02-22T00:00:00+00:00
 draft: false
 language: en
