@@ -30,12 +30,13 @@
   </div>
   {{ end }}
 
-  <h1 class="card-header">{{- .Title -}} ({{- .Type -}})</h1>
+  <h1 class="card-header">{{- .Title -}}</h1>
   <p class="card-date">
     {{- .Params.Publisher -}}.
     <time {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
       {{- .Date.Format "January 2, 2006" -}}
     </time>
+    ({{- .Type -}})
   </p>
 
   <p class="card-source">
@@ -46,6 +47,9 @@
   </p>
 
   <p class="card-description">{{- .Description -}}</p>
+  <p class="card-curation">
+    A digital curation experiment by <a href="https://reprage.com">Clinton Freeman</a>, <a href="https://www.instagram.com/cargocultscientist/">Martin Sona</a> & <a href="https://www.instagram.com/chad.arie/">Chad Arie</a>
+  </p>
   <p class="card-spacer">*</p>
   <p class="card-content">{{- .Content -}}</p>
 
