@@ -6,7 +6,7 @@ language: en
 publisher: Artzines
 type: inverview
 
-description: Tom Sachs speaks about how zines keep him connected with his community.
+description: Tom Sachs has a conversation about how zines keep him connected with his community.
 
 videos:
 - https://vimeo.com/163313223
