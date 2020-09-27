@@ -11,6 +11,7 @@ description: Tom Sachs has a conversation about how zines keep him connected wit
 videos:
 - https://vimeo.com/163313223
 - https://youtube.com/watch?v=8dORWJ8Kmpg
+- https://erl.one/archive/2013-04-03-tom-sachs-on-zines.mp4
 
 people:
 - Tom Sachs

@@ -10,6 +10,7 @@ description: A patron explores Tom Sachs' Space Program Mars at the Park Avenue 
 
 videos:
 - https://youtube.com/watch?v=V0yQkyt_sYo
+- https://erl.one/archive/2012-06-05-tom-sachs-space-program-mars-walkaround.mp4
 
 ---
 
