@@ -11,6 +11,7 @@ description: Tom Sachs provides a tour of the Barbie Slave ship installed at the
 videos:
 - https://vimeo.com/76389152
 - https://youtube.com/watch?v=kbNCmeR1q-Y
+- https://erl.one/archive/2013-10-07-biennale-de-lyon.mp4
 
 people:
 - Tom Sachs
