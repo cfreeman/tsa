@@ -23,7 +23,7 @@ Source:
 		{{ $url := index (.Params.sources) 0}}
 		{{ $alt := .Description }}
 		{{ range $elem_index, $elem_val := .Params.images }}
-			<a href="{{ $url }}"><img src="{{ $elem_val }}" alt="A screenshot of the article {{ $alt }}"></a>
+			<a href="{{ $url }}"><img class="pure-img" src="{{ $elem_val }}" alt="A screenshot of the article {{ $alt }}"></a>
 		{{ end }}
 	</div>
 </div>
