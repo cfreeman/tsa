@@ -1,0 +1,31 @@
+
+<h1 class="card-header">{{ .Title }}</h1>
+<p class="card-date">
+{{ .Params.Publisher }}.
+<time {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+  {{ .Date.Format "January 2, 2006" }}
+</time>
+({{ .Type }})
+</p>
+
+<p class="card-source">
+Source:
+{{ range $elem_index, $elem_val := .Params.sources }}
+  <a href="{{ $elem_val }}">{{ $elem_index }}</a>
+{{ end }}
+</p>
+
+<p class="card-description">{{- .Description -}}</p>
+<p class="card-spacer">*</p>
+
+<div class="pure-g">
+	<div class="pure-u-1">
+		{{ $url := index (.Params.sources) 0}}
+		{{ $alt := .Description }}
+		{{ range $elem_index, $elem_val := .Params.images }}
+			<a href="{{ $url }}"><img src="{{ $elem_val }}" alt="A screenshot of the article {{ $alt }}"></a>
+		{{ end }}
+	</div>
+</div>
+
+<p class="card-content">{{- .Content -}}</p>

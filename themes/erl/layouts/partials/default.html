@@ -1,0 +1,50 @@
+
+  {{ $url := index .Params.videos 0 }}
+
+  {{ if eq (substr $url 8 5) "vimeo" }}
+  <div class="fluidMedia">
+    {{ $id := index (last 1 (split $url "/")) 0 }}
+    <iframe width="640" height="360" src="https://player.vimeo.com/video/{{ $id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  {{ end }}
+
+  {{ if eq (substr $url 8 7) "youtube" }}
+  <div class="fluidMedia">
+    {{ $id := index (last 1 (split (index (last 1 (split $url "/")) 0) "=")) 0 }}
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/{{ $id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  {{ end }}
+
+
+  {{ if eq (substr $url 8 3) "erl" }}
+  <div class="container">
+    {{ $stem := strings.TrimRight ".mp4" $url }}
+    <video id="player" width="100%" height="360" playsinline controls data-poster="{{ $stem }}.jpg">
+      <source src="{{ $stem }}.mp4" type="video/mp4" />
+      <source src="{{ $stem }}.webm" type="video/webm" />
+    </video>
+    <script src="https://cdn.plyr.io/3.6.2/plyr.polyfilled.js"></script>
+    <script>Plyr.setup("#player");
+    console.log("foo");</script>
+  </div>
+  {{ end }}
+
+  <h1 class="card-header">{{- .Title -}}</h1>
+  <p class="card-date">
+    {{- .Params.Publisher -}}.
+    <time {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+      {{- .Date.Format "January 2, 2006" -}}
+    </time>
+    ({{- .Type -}})
+  </p>
+
+  <p class="card-source">
+    Source:
+    {{ range $elem_index, $elem_val := .Params.videos }}
+      <a href="{{ $elem_val }}">{{ $elem_index }}</a>
+    {{ end }}
+  </p>
+
+  <p class="card-description">{{- .Description -}}</p>
+  <p class="card-spacer">*</p>
+  <p class="card-content">{{- .Content -}}</p>

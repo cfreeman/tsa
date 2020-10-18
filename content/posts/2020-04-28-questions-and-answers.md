@@ -15,7 +15,6 @@ images:
 - https://erl.one/archive/2020-04-28-office-hours-q-and-a-notes1.jpg
 - https://erl.one/archive/2020-04-28-office-hours-q-and-a-notes2.jpg
 
-
 people:
 - Tom Sachs
 - Erum Shah
