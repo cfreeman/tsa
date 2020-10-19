@@ -13,7 +13,7 @@ sources:
 - https://web.archive.org/web/20201019035022/https://theselby.com/galleries/tom-sachs/
 
 images:
-- https://erl.one/archive/2020-10-16-hypebeast-handmade-paintings.jpg
+- https://erl.one/archive/2010-07-19-selby-studio-tour.jpg
 
 people:
 - Tom Sachs
