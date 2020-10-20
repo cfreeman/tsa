@@ -6,7 +6,7 @@ language: en
 publisher: HYPEBEAST
 type: article
 
-description: Keith Estiler of Hypebeast wrote an introduction to Sachs' Handmade Paintings show at Acquavella Galleries.
+description: Keith Estiler of Hypebeast wrote an introduction to Sachs' art practice.
 
 sources:
 - https://hypebeast.com/2020/8/tom-sachs-studio-visit-interview-nike
