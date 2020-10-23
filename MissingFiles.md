@@ -5,3 +5,5 @@
 * Tom Sachs: Space Program: Mars
 * space program talks at google.
 * tuesday-evenings-at-the-modern.
+
+https://www.youtube.com/watch?v=td7LrVY74Gg

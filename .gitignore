@@ -1,3 +1,7 @@
 .DS_Store
 Dockerfile
 public
+erl-meta
+gowitness.sqlite3
+screenshots
+deploy.sh
