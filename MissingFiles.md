@@ -8,3 +8,7 @@
 
 https://www.youtube.com/watch?v=td7LrVY74Gg
 https://www.youtube.com/watch?v=ew4X_ZVkmM8
+
+
+* https://www.artnews.com/art-news/news/out-of-this-world-549/
+* https://www.artnews.com/art-in-america/features/tom-sachs-park-avenue-armory-58914/
