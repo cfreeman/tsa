@@ -9,7 +9,5 @@
 https://www.youtube.com/watch?v=td7LrVY74Gg
 https://www.youtube.com/watch?v=ew4X_ZVkmM8
 
-- https://www.vogue.com/article/tom-sachs-nike-mars-yard-overshoe-paradox-bullets
-- https://www.vogue.com/article/tom-sachs-nasa-chairs-mars-space-program-sale
 - https://www.gq.com/story/tom-sachs-rules-for-creating
 - https://www.gq-magazine.co.uk/article/nike-tom-sachs-paradox-bullets
