@@ -10,8 +10,8 @@ people:
 - Sarah Owen
 publisher: vice
 sources:
-- https://i-d.vice.com/en_au/article/m7jk3q/lucien-smith-rain-paintings-southampton-suite-serving-the-people
-- ""
+- https://i-d.vice.com/en_us/article/bjzvzd/tom-sachs-on-chanel-vs-nasa
+- https://web.archive.org/web/20201029223814/https://i-d.vice.com/en_us/article/bjzvzd/tom-sachs-on-chanel-vs-nasa
 title: i-D Interview on NASA
 type: article
 
