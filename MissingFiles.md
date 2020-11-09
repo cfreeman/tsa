@@ -10,7 +10,6 @@ https://www.youtube.com/watch?v=td7LrVY74Gg
 https://www.youtube.com/watch?v=ew4X_ZVkmM8
 
 
-- https://huckberry.com/special-projects/artists/tom-sachs
 - https://bombmagazine.org/articles/tom-sachs-van-neistat/
 - https://www.anothermanmag.com/life-culture/10564/artist-tom-sachs-the-art-world-has-nothing-to-do-with-art
 - https://www.highsnobiety.com/p/tom-sachs-interview/
@@ -32,4 +31,5 @@ https://www.youtube.com/watch?v=ew4X_ZVkmM8
 - https://www.sfgate.com/news/article/Tom-Sachs-YBCA-exhibition-discovers-new-worlds-9227975.php
 - https://www.culturedmag.com/art-production-fund-2020-gala/
 - https://www.politico.com/states/new-york/albany/story/2012/06/artist-tom-sachs-previews-his-mission-to-mars-starting-from-park-avenue-067223
+- https://www.lacma.org/lab/project/space-program-4-infinite-and-beyond
 
