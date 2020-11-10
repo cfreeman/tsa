@@ -9,9 +9,6 @@
 https://www.youtube.com/watch?v=td7LrVY74Gg
 https://www.youtube.com/watch?v=ew4X_ZVkmM8
 
-
-- https://bombmagazine.org/articles/tom-sachs-van-neistat/
-- https://www.anothermanmag.com/life-culture/10564/artist-tom-sachs-the-art-world-has-nothing-to-do-with-art
 - https://www.highsnobiety.com/p/tom-sachs-interview/
 - https://www.architecturaldigest.com/story/tom-sachs-newest-project-has-us-over-the-moon
 - https://www.dazeddigital.com/art-photography/article/41704/1/artist-tom-sachs-swiss-passport-office-politics-brexit-america-thaddaeus-ropac
