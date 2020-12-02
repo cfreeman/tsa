@@ -1,6 +1,6 @@
 ---
 date: "2018-10-22T00:00:00+00:00"
-description: In this interview Sachs introduces the Swiss Passport Office at the Thaddaeus Ropac gallery and the screening of Paradox Bullets at the Tate Modern. He also lists five was to make it as an artist.
+description: In this interview Sachs introduces the Swiss Passport Office at the Thaddaeus Ropac gallery and the screening of Paradox Bullets at the Tate Modern. He also lists five ways to make it as an artist.
 draft: false
 images:
 - https://erl.one/archive/2018-10-22-another-man-swiss-passports.png
