@@ -13,7 +13,7 @@ sources:
 - https://web.archive.org/web/20200929143236/https://www.designboom.com/art/tom-sachs-space-program-mars-at-the-park-avenue-armory/
 
 images:
-- - https://erl.one/archive/2012-05-25-designboom-space-program-photojournal.png
+- https://erl.one/archive/2012-05-25-designboom-space-program-photojournal.png
 
 people:
 - Tom Sachs
