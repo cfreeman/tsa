@@ -15,3 +15,7 @@ https://www.youtube.com/watch?v=ew4X_ZVkmM8
 - https://www.politico.com/states/new-york/albany/story/2012/06/artist-tom-sachs-previews-his-mission-to-mars-starting-from-park-avenue-067223
 - https://www.lacma.org/lab/project/space-program-4-infinite-and-beyond
 - https://blonded.blog/news/tom-sachs-deconstructs-frank-oceans-stage-set
+- https://www.surfacemag.com/articles/art-tom-sachs-interview-music-studio-visit/
+- https://www.idnworld.com/creators/TomSachs
+
+
