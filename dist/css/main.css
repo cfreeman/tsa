@@ -18,6 +18,20 @@ h1 {
 	font-size: 26px !important;
 }
 
+h2 {
+	font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif !important;
+	font-size: 18px !important;
+	color: rgb(150, 150, 150);
+	padding-top: 40px !important;
+	padding-bottom: 0px !important;
+	margin-bottom: -10px !important;
+	font-weight: 400;
+}
+
+h2 + p {
+	margin-top: 5px;
+}
+
 .fluidMedia {
     position: relative;
     padding-bottom: 56.25%; /*proportion value to aspect ratio 16:9 (9 / 16 = 0.5625 or 56.25%) */
