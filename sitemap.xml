@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.erl.one/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+    <loc>https://www.erl.one/posts/2020-12-28-adam-steltzner-interview/</loc>
+    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erl.one/posts/2020-12-23-nikecraft-wear-tester/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+    <loc>https://www.erl.one/</loc>
+    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.erl.one/posts/</loc>
+    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.erl.one/posts/2020-12-23-nikecraft-wear-tester/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url>
   
