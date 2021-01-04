@@ -17,5 +17,5 @@ https://www.youtube.com/watch?v=ew4X_ZVkmM8
 - https://blonded.blog/news/tom-sachs-deconstructs-frank-oceans-stage-set
 - https://www.surfacemag.com/articles/art-tom-sachs-interview-music-studio-visit/
 - https://www.idnworld.com/creators/TomSachs
-
+- https://www.wired.com/2016/09/adam-savage-tom-sachs-movie-props/
 
