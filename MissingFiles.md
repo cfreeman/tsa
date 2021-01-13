@@ -18,4 +18,10 @@ https://www.youtube.com/watch?v=ew4X_ZVkmM8
 - https://www.surfacemag.com/articles/art-tom-sachs-interview-music-studio-visit/
 - https://www.idnworld.com/creators/TomSachs
 - https://www.wired.com/2016/09/adam-savage-tom-sachs-movie-props/
+- https://store.tomsachs.org/collections/frontpage/products/heart-brain-feedback-a-space-program-dvd
+- https://itunes.apple.com/us/movie/a-space-program/id1164740849
+- https://www.wsj.com/articles/artist-tom-sachs-on-creating-his-style-uniform-1473444663
+- https://www.newyorker.com/culture/culture-desk/an-ingenious-tinkerers-mission-to-mars
+- https://www.youtube.com/watch?v=20P7kRdMhqo&feature=youtu.be
+
 

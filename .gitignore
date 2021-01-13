@@ -6,3 +6,6 @@ erl-meta
 gowitness.sqlite3
 screenshots
 deploy.sh
+process.sh
+themes/erl/static/dist/css/dist/
+themes/erl/static/dist/css/.cache
