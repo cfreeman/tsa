@@ -247,14 +247,7 @@
 
   <script src="https://files.stork-search.net/stork.js"></script>
     <script>
-      var eInput = document.getElementById('search');
-      var bInit = false;
-      eInput.addEventListener('click', event => {
-        if (!bInit) {
-          stork.register('erl', '/erl.st');
-          bInit = true;
-        }
-      });
+      stork.register('erl', '/erl.st');
     </script>
 
   </div>
