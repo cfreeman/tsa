@@ -23,5 +23,9 @@ https://www.youtube.com/watch?v=ew4X_ZVkmM8
 - https://www.wsj.com/articles/artist-tom-sachs-on-creating-his-style-uniform-1473444663
 - https://www.newyorker.com/culture/culture-desk/an-ingenious-tinkerers-mission-to-mars
 - https://www.youtube.com/watch?v=20P7kRdMhqo&feature=youtu.be
+- https://ropac.net/press-documents/90/
+- https://ropac.net/press-documents/291/
+- https://podcasts.apple.com/us/podcast/ep-13-tom-sachs/id1517322794?i=1000505747041
+
 
 

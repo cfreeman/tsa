@@ -2,6 +2,13 @@
   {{ $section := where .Site.RegularPages "Section" "in" "posts" }}
   <div class="pure-g">
     <div class="pure-u-1-1">
+      <div class="stork-wrapper">
+        <p id="search-label">Search</p>
+        <input id="search" data-stork="erl" class="stork-input" autocomplete="off" />
+        <div data-stork="erl-output" class="stork-output"></div>
+      </div>
+
+      <p id="search-label">The haystack.</p>
       <ul class="listing">
         {{ range $section }}
           <li><a href="{{ .Permalink }}">{{ .Title }} ({{ .Type }})</a></li>
@@ -9,4 +16,9 @@
       </ul>
     </div>
   </div>
+
+  <script src="https://files.stork-search.net/stork.js"></script>
+    <script>
+      stork.register('erl', '/erl.st');
+    </script>
 {{ end }}

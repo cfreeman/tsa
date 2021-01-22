@@ -3,9 +3,12 @@ instaloader
 Dockerfile
 public
 erl-meta
+erl-indexer
 gowitness.sqlite3
 screenshots
 deploy.sh
 process.sh
+stork.toml
+erl.st
 themes/erl/static/dist/css/dist/
 themes/erl/static/dist/css/.cache
