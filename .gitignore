@@ -10,5 +10,6 @@ deploy.sh
 process.sh
 stork.toml
 erl.st
-themes/erl/static/dist/css/dist/
-themes/erl/static/dist/css/.cache
+themes/tsa/static/dist/css/dist/
+themes/tsa/static/dist/css/.cache
+.hugo_build.lock

@@ -1,5 +1,5 @@
 ---
-title: NIKECraft Wear Tester
+title: NIKECRAFT WEAR TESTER
 date: 2020-12-23T00:00:00+00:00
 draft: false
 language: en
@@ -51,7 +51,7 @@ people:
 
 00:02:09 Narrator: Help us wear these shoes to death.
 
-00:02:16 Sam Ratanarat: To join our wear testing program, post a one minute video to your Instagram feed. The opening shot must list your Instagram handle, your location, and your shoe size. Explain why you want to join Tag Tom Sachs and use the hashtag Nike Craft wear tester so we see it.
+00:02:16 Sam Ratanarat: To join our wear testing program, post a one minute video to your Instagram feed. The opening shot must list your Instagram handle, your location, and your shoe size. Explain why you want to join Tag Tom Sachs and use the hashtag NikeCraft wear tester so we see it.
 
 00:02:40 Narrator: Do you take these shoes to have and to hold?
 

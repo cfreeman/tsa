@@ -1,12 +1,12 @@
-# Europa Research Library
+# Tom Sachs Archive
 
-The Europa Research Library is a digital collection of works from the American Sculptor, Tom Sachs.
+The Tom Sachs Archive is a collection of digital ephemera created by the American Sculptor, Tom Sachs.
 
 ## Setup a local development environment for the library.
 ```bash
-docker run -v $PWD:/home/data -p 1313:1313 -p 1612:1612 -it cfreeman/epl /bin/bash
+docker run -v $PWD:/home/data -p 1313:1313 -p 1612:1612 -it cfreeman/hugo /bin/bash
 cd /home/data
-hugo server --bind 0.0.0.0 -D
+hugo server --buildFuture --bind 0.0.0.0 -D
 ```
 
 ## Rebuilding and uploading the library.
