@@ -1,5 +1,5 @@
 ---
-title: HYPEBEAST Handmade Paintings Introduction
+title: HYPEBEAST HANDMADE PAINTINGS INTRODUCTION
 date: 2020-10-16T00:00:00+00:00
 draft: false
 language: en

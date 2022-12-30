@@ -29,6 +29,12 @@ git push origin gh-pages
 
 
 ## TODO
+* Update favicon.
+* Add meta description.
+* Add a contributors page.
+* YouTube and Vimeo lite-shims.
+
+
 * Install stork search engine. https://stork-search.net
 * Add quotes to metadata block and pull noteworthy tom sachs quotes out of archived articles.
 * Update office hour template to render show notes where available.
