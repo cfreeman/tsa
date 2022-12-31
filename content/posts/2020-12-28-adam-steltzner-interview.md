@@ -1,5 +1,5 @@
 ---
-title: Adam Steltzner nerds only whiteboard
+title: NERDS ONLY WHITEBOARD
 date: 2020-12-28T00:00:00+00:00
 draft: false
 language: en
@@ -177,9 +177,7 @@ people:
 
 00:32:58 Adam Steltzner: Yeah anyway that my my Hall of ancestors. I got all my like old people that I that made me up here on my. Anyway you know it's. Adjusting to this. It's not all bad right. It's changed. US humans are machines of dealing with some of us. Humans are machines are dealing with with change an it's not all bad, it's you know it's got sucks. I've got my I've got a lovely as you know Tom, a lovely set of kids. A 4 year old. 8 year old most notably and there in school. I mean actually an 18 year old. She's sort of done, but. You know, so we got the whole. The house is alive with people going to school via, you know, a computer and an. And then I'm you know we all all of this huge group of people who are operating our spacecraft are doing it all from our own homes. That's weird. That's definitely weird. So, but you know we're getting it done.
 
-00:34:08 Tom Sachs:
-
-Well, I'm this is this 2020 is suck balls for everyone. But I gotta say, there's been. There's always a silver lining in in this time. For me, it's been spending a bunch of months in the basement making my weird porno collages and spending time with my family. That's pretty major. Also, Uber has been great because they'll take packages without people 'cause I didn't used to do that...
+00:34:08 Tom Sachs: Well, I'm this is this 2020 is suck balls for everyone. But I gotta say, there's been. There's always a silver lining in in this time. For me, it's been spending a bunch of months in the basement making my weird porno collages and spending time with my family. That's pretty major. Also, Uber has been great because they'll take packages without people 'cause I didn't used to do that...
 
 00:34:42 Adam Steltzner: So you got Courier service essentially.
 
@@ -209,13 +207,9 @@ Well, I'm this is this 2020 is suck balls for everyone. But I gotta say, there's
 
 00:40:20 Adam Steltzner: I love that.
 
-00:40:21 Tom Sachs:
+00:40:21 Tom Sachs: And so something in. And then there's an an exponential difficulty curve as it gets larger, right? So this is like a coffee Cup and this is a copita. And then Next up from a coffee Cup would be like a tea bowl.
 
-And so something in. And then there's an an exponential difficulty curve as it gets larger, right? So this is like a coffee Cup and this is a copita. And then Next up from a coffee Cup would be like a tea bowl.
-
-00:40:34 Tom Sachs:
-
-An as they get larger, they get more difficult to manage because porcelain has all these really quirky things about it. Like it's it's. It's very very fine and it's it. It gets gummy and it collapses and it has to be just the right or else it's it's too dry and it cracks. It's is very narrow latitude material so. But as it gets bigger, my hands. I think if I had bigger hands it be easier for me to make bigger things. But because my hands are like whatever medium size, I can make medium sized things easily. And then of course everything shrinks but that whole like presentness of mind is so. That you can't fake it like I'll do it. I'll list the music, all the conversation they'll look down. I think I made and it's pretty mediocre, but if I'm just, you know, full on Zen focused, it's it's better, and until and there's nothing that that is a greater thermometer, thermometer, or barometer measure of my focus than something that when you push into it. It leaves your fingerprints and then 50,000 years later.
+00:40:34 Tom Sachs: An as they get larger, they get more difficult to manage because porcelain has all these really quirky things about it. Like it's it's. It's very very fine and it's it. It gets gummy and it collapses and it has to be just the right or else it's it's too dry and it cracks. It's is very narrow latitude material so. But as it gets bigger, my hands. I think if I had bigger hands it be easier for me to make bigger things. But because my hands are like whatever medium size, I can make medium sized things easily. And then of course everything shrinks but that whole like presentness of mind is so. That you can't fake it like I'll do it. I'll list the music, all the conversation they'll look down. I think I made and it's pretty mediocre, but if I'm just, you know, full on Zen focused, it's it's better, and until and there's nothing that that is a greater thermometer, thermometer, or barometer measure of my focus than something that when you push into it. It leaves your fingerprints and then 50,000 years later.
 
 00:41:45 Adam Steltzner: It’s still there.
 

@@ -4,20 +4,40 @@ body {
 	border-left: 6px solid rgb(192, 56, 25);
 }
 
+p {
+	margin-top: 9px;
+	margin-bottom: 17px;
+	line-height: 20px;
+}
+
+a:link {
+  color: rgb(20, 22, 22);
+}
+
+a:visited {
+  color: rgb(102, 22, 22);
+}
+
 .header {
 	background-color: rgb(174, 123, 44);
 	max-width: 800px;
 	padding-bottom: 25px;
+	font-size: 26px;
 }
 
 .content {
     font-family: Helvetica,Helvetica Neue,Arial,sans-serif !important;
-    font-size: 16px;
+    font-size: 17px;
     margin: 0;
     max-width: 800px;
     line-height: 1.6em;
     background-color: rgb(228,198,113);
     color: rgb(20, 22, 22);
+}
+
+.footer {
+	font-size: 12px;
+	padding: 13px;
 }
 
 
@@ -38,30 +58,18 @@ body {
 	margin-top: 0px;
 }
 
-h1 {
-	font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif !important;
-	font-size: 26px !important;
+.listing {
+	list-style: none;
+	padding-left:13px;
+	font-size: 16px;
+	line-height: 1.5em;
 }
 
-h2 {
-	font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif !important;
-	font-size: 18px !important;
-	color: rgb(150, 150, 150);
-	padding-top: 40px !important;
-	padding-bottom: 0px !important;
-	margin-bottom: -10px !important;
-	font-weight: 400;
-}
 
-h2 + p {
-	margin-top: 5px;
-}
 
-p {
-	margin-top: 9px;
-	margin-bottom: 9px;
-	line-height: 20px;
-}
+
+
+
 
 .fluidMedia {
     position: relative;
@@ -87,6 +95,14 @@ p {
 	padding-top: 5px;
 }
 
+.card a:link {
+  color: rgb(233, 224, 210);
+}
+
+.card a:visited {
+  color: rgb(192, 56, 25);
+}
+
 .card-header {
 	font-family: Arial Black, Arial, sans-serif !important;
 	margin:0;
@@ -107,7 +123,7 @@ p {
 
 .card-source {
 	font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif !important;
-	font-size:12px;
+	font-size:13px;
 	margin:0px;
 	margin-top:-2px;
 	vertical-align: text-top;
@@ -123,30 +139,6 @@ p {
 	padding-bottom: 23px;
 }
 
-
-
-a:link {
-  color: rgb(233, 224, 210);
-}
-
-a:visited {
-  color: rgb(20, 22, 22)
-}
-
-
-
-.listing {
-	font-family: "Courier New", Courier, monospace !important;
-	list-style: none;
-	padding-left:0px;
-	font-size: 16px;
-	line-height: 1.0em;
-}
-
-.footer {
-	font-size: 12px;
-	padding: 13px;
-}
 
 @media (max-width: 640px) {
 	.content {

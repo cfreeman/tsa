@@ -10,10 +10,16 @@
 {{- template "_internal/schema.html" . -}}
 {{- template "_internal/twitter_cards.html" . -}}
 
+{{ if .IsHome  }}
+<meta name="description" content="This is a preservation experiment for digital ephemera created by the American Sculptor Tom Sachs.">
+{{ else }}
+<meta name="description" content="{{ .Params.description }}">
+{{ end }}
+
 <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
 <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
 <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
- <link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
+<link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
 <link rel="stylesheet" href="/dist/css/main.2.css">
 
 
