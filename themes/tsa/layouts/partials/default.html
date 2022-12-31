@@ -24,14 +24,16 @@
   {{ if eq (substr $url 8 5) "vimeo" }}
   <div class="fluidMedia">
     {{ $id := index (last 1 (split $url "/")) 0 }}
-    <iframe title="vimeo player" width="640" height="360" src="https://player.vimeo.com/video/{{ $id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <script type="module" src="/dist/js/lite-vimeo.js"></script>
+    <lite-vimeo videoid="{{ $id }}"></lite-vimeo>
   </div>
   {{ end }}
 
   {{ if eq (substr $url 8 7) "youtube" }}
   <div class="fluidMedia">
     {{ $id := index (last 1 (split (index (last 1 (split $url "/")) 0) "=")) 0 }}
-    <iframe title="vimeo player" width="640" height="360" src="https://www.youtube.com/embed/{{ $id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <script type="module" src="/dist/js/lite-youtube.js"></script>
+    <lite-youtube videoid="{{ $id }}"></lite-youtube>
   </div>
   {{ end }}
 

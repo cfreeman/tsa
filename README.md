@@ -29,10 +29,10 @@ git push origin gh-pages
 
 
 ## TODO
-* Update favicon.
+* ~~Update favicon.~~
 * Add meta description.
 * Add a contributors page.
-* YouTube and Vimeo lite-shims.
+* ~~YouTube and Vimeo lite-shims.~~
 
 
 * Install stork search engine. https://stork-search.net
