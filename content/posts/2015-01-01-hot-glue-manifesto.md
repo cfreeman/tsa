@@ -1,5 +1,5 @@
 ---
-title: Glue Gun Manifesto
+title: GLUE GUN MANIFESTO
 date: 2015-01-01T00:00:00+00:00
 draft: false
 language: en
@@ -9,10 +9,10 @@ type: article
 description: A Tom Sachs Studio manifesto on the correct application of thermal adhesive.
 
 sources:
-- https://erl.one/archive/2015-01-01-glue-gun-manifesto.pdf
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2015-01-01-glue-gun-manifesto.pdf
 
 images:
-- https://erl.one/archive/2015-01-01-glue-gun-manifesto.png
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2015-01-01-glue-gun-manifesto.webp
 
 people:
 - Tom Sachs
