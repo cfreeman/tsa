@@ -10,7 +10,7 @@ description: In this video the Sachs studio introduces the wear tester program f
 
 videos:
 - https://youtube.com/watch?v=WdNplVMF-ts
-- https://erl.one/archive/2020-12-23-NIKECraft-wear-tester.mp4
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-12-23-NIKECraft-wear-tester.mp4
 
 people:
 - Tom Sachs

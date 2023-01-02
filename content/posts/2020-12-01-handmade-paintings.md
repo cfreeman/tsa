@@ -1,5 +1,5 @@
 ---
-title: Handmade Paintings
+title: HANDMADE PAINTINGS
 date: 2020-12-01T00:00:00+00:00
 draft: false
 language: en
@@ -9,7 +9,7 @@ type: tour
 description: Sachs leads a tour of his show Handmade Paintings at Acquavella Galleries in New York
 
 videos:
-- https://erl.one/archive/2020-12-01-handmade-paintings.mp4
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-12-01-handmade-paintings.mp4
 
 people:
 - Tom Sachs

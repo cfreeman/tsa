@@ -18,9 +18,23 @@ a:visited {
   color: rgb(102, 22, 22);
 }
 
+.donate {
+	background-color: rgb(192, 56, 25);
+	color: rgb(233, 224, 210);
+	text-align: right;
+	max-width: 800px;
+	padding-bottom: 6px;
+	padding-top: 6px;
+}
+
+.donate a {
+  color: rgb(233, 224, 210);
+}
+
 .header {
 	background-color: rgb(174, 123, 44);
 	max-width: 800px;
+	padding-top: 10px;
 	padding-bottom: 25px;
 	font-size: 26px;
 }
@@ -31,7 +45,7 @@ a:visited {
     margin: 0;
     max-width: 800px;
     line-height: 1.6em;
-    background-color: rgb(228,198,113);
+    background-color: rgb(238,216,130);
     color: rgb(20, 22, 22);
 }
 
@@ -114,7 +128,6 @@ a:visited {
 }
 
 .card-date {
-	font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif !important;
 	font-size:15px;
 	height:20px;
 	margin:0px;
@@ -122,7 +135,6 @@ a:visited {
 }
 
 .card-source {
-	font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif !important;
 	font-size:13px;
 	margin:0px;
 	margin-top:-2px;

@@ -1,5 +1,5 @@
 ---
-title: 2020-08-11 Questions and Answers
+title: Q&A 2020-08-11
 date: 2020-08-11T00:00:00+00:00
 draft: false
 language: en
@@ -9,7 +9,7 @@ type: office-hours
 description: Tom Sachs hosts an office hours that questions relating to the ISRU dome challenge
 
 videos:
-- https://erl.one/archive/2020-08-11-office-hours-q-and-a.mp4
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-08-11-office-hours-q-and-a.mp4
 
 people:
 - Tom Sachs
@@ -21,7 +21,7 @@ people:
 
 00:02:05 Tom Sachs: From at SOLJ dot R will hot glue. And plywood fix criticism? Really fuck them. Of course it can. You just have to do the work. It doesn't matter what they think, it only matters what you think.  If that's what you mean by criticism, I'm not even sure what criticism is a critic I always think is a person with an idea. In that way, critics are helpful to us because they help us. Get better at doing our stuff. They like 2 minds together. Make a bigger mind so.
 
-00:02:50 Erum:  For those Listening who don't know can you tell us about the MIT Geodesic Dome challenge?
+00:02:50 Erum: For those Listening who don't know can you tell us about the MIT Geodesic Dome challenge?
 
 00:02:57 Tom Sachs: Yes, yes, so this is specifically. ISRU insitu resource utilization. How to build a geodesic Dome, and that is to build a geodesic Dome. With the Buckminster Fuller doctrinaire using materials and tools that are around you, so a lot of people are participating and you can see their progress both at MIT and at home on Instagram. On our story, every day we're posting. So if you want to post what you're working on at Tom Sachs. No, sorry hashtag Tom Sachs ISRU. We will regram it. Repost it if you if you don't see it. That means we fucked it up so just post it up again and will try again. I'm getting a lot of submissions were posting everything we can because you guys are all doing great work. I've not seen anything I hate. Nothing. So please try and do shittier work so that we can not post you. I dare you. And that's to answer some of your questions, and one of them is about.
 
@@ -39,7 +39,7 @@ people:
 
 00:08:35 Tom Sachs: Dujac. Do chocolate domes count from Adam underscore Failured? Of course, chocolate domes count their delicious. Um?
 
-00:09:00 Erum:  We'll put the recipe back on the story today.
+00:09:00 Erum: We'll put the recipe back on the story today.
 
 00:09:02 Tom Sachs: Great recipe goes back on the story today so you can see it right. Those are all the dome questions for now. If other ones come up. You know, we'll get to it.
 
@@ -47,7 +47,7 @@ people:
 
 00:09:20 Tom Sachs: Absolutely you can. You must make a Dome. I don't know what too late it's gonna mean for our team. Are we gonna say are you gonna stop posting after awhile?
 
-00:09:30 Erum:  Hey, deadlines are just suggestions. We're hoping everyone turns it in by Friday at 5:00 PM, but if you don't make one until later this month still share it with us.
+00:09:30 Erum: Hey, deadlines are just suggestions. We're hoping everyone turns it in by Friday at 5:00 PM, but if you don't make one until later this month still share it with us.
 
 00:09:40 Tom Sachs: Can they hear you saying that?
 
@@ -75,27 +75,19 @@ people:
 
 00:18:22 Tom Sachs: From at changing around. 112 at changing underscore around 112 how do you feel about people uploading scans of your books online? Well. Are we doing that? I like that idea. I know that we had some conversations with David Felderman about authenticity and copyrights and trademarks and protecting zines and stuff. I think that ultimately that. Um? It would be really, really good because everyone could have that information. The problem of course comes when. People then print them and try and pass them off as something that this is a product of the studio. That's really the only problem I have with with with fakes, even if they're genuine fakes is that there is a. I think it's fine to make fakes, it's just.
 
-00:19:20 Erum:  Be transparent about it, don't lie.
+00:19:20 Erum: Be transparent about it, don't lie.
 
 00:19:22 Tom Sachs: Yeah, be transparent about it. Don't lie like say what this is about and I think that. You know, with their people making fake stuff on the Internet, fake things that we make, but then they they will say that they are fake. I think that's that's the difference and I think the whole idea of intellectual property's kind of up for debate. I mean, if you think about it, was really only. Past 250 years that we've had patents and like a lot of that kind of really grew into effect with the Industrial Revolution. And that's why I think we're having this kind of conceptual war with China and Huawei because the Chinese have been making things for a millenia before. The West haven't really like engaged with with intellectual property to go to China. It's not really a thing. And. It's more always been about who he who gets to market first or the best product or the best ability to sell it. An maybe a better example is the history of recorded music. So if you look at. The 20th century is, you know, from the 1920s to say 2008 or something. Artists made money on recorded music, but before that, and since then, if you wanted to get rich, or whether you're Kanye or or or. Mozart, you had to go on tour and play and that's how you would get money. But with recorded music, it started with a phonograph and then as it started gets smaller like a. Long playing record to A to a cassette to a CD to something that's kind of invisible like a. Download as as the object gets more fugitive and less concrete and smaller, it gets harder and harder protects it's in the air and now with file sharing it's it's hard to make a living so. I, I think that's why you know it's Kathy. Is Kathy Manning still being held prisoner? And can you look that up? So she's the daughter of the guy who started Huawei and she was going to Mexico and then last year the Trump administration used so she was going to Mexico through Canada and she was detained. the Canadians collaborated with the Americans and detained her like this like this trophy in this trade war. Um? I don't know if she's still being held captive in this negotiation because Huawei the second largest phone maker in the world uses a lot of unauthorized American technology. They just steal it and they're great phones and you can't buy them in US, but you could buy them in Europe. She's still in Canada. She's still. She's still, she's still. Detained I mean, she's been there for a year or something. Kathy, Kathy Ming political prisoner, but an I'm not not picking aside because clearly I I benefit from intellectual property. I just think it's something that is. That's it's increasingly difficult to enforce, and. And we we. We enforce that we protect it and we live and die for it, but I think I think you'll see in our lifetimes that that will change. I don't know how. Um? So.
 
 00:22:48 Tom Sachs: What's your this is from? At 4:20 The chaff dog 69. What's your favorite brand of broom? My favorite brand of broom is sweep dreams, handmade in Thailand. I bought my. Last one at Dean and DeLuca Oliver Sholom. And this is a handmade flat broom. It's important to remind everyone that brooms before the Shakers were round, like a witch's broom, like Wicked Witch of the West cylindrical broom and the Shakers figured out to weave brooms, flats. You could get into corners and the sweep dreams Broom, which is a corn broom with a bamboo handle, is the lightest, most high quality broom I've ever seen. They are very hard to get. I probably find him online sometimes sweep dreams. If you want to treat yourself, get a sweep dreams broom. In fact, if we ever the studio ever does a broom, it's going to be a sweep. Maybe we should talk to Sam and go to Thailand and make a like space program like a loop, carbon fiber aluminum handles the bamboo or spray painted sweep dream room. So look up sweep dreams or stay tuned here.
 
-00:24:00 Tom Sachs:
+00:24:00 Tom Sachs: So I think these are all the questions that I have answered for this week. Are there any others that come up now? Erum, do you have anything?
 
-So I think these are all the questions that I have answered for this week. Are there any others that come up now? Erum, do you have anything?
+00:24:09 Tom Sachs: While we look, I'm just going to remind you all to tag hashtag Tom Sachs ISRU get your domes in by Friday.
 
-00:24:09 Tom Sachs:
+00:24:19 Tom Sachs: Make your page one page a nap by 11 horizontal mind the gutter you're not going to give you two were gonna also maybe make a movie if you want to make a movie.
 
-While we look, I'm just going to remind you all to tag hashtag Tom Sachs ISRU get your domes in by Friday.
-
-00:24:19 Tom Sachs:
-
-Make your page one page a nap by 11 horizontal mind the gutter you're not going to give you two were gonna also maybe make a movie if you want to make a movie.
-
-00:24:30 Tom Sachs:
-
-Your Dome keep it one minute long or shorter if it's longer than a minute. We probably won't even like. Look at it. Sorry to be a dick about it, but Eames said that he loved constraints because it helped him against the existential abyss. So you're welcome.
+00:24:30 Tom Sachs: Your Dome keep it one minute long or shorter if it's longer than a minute. We probably won't even like. Look at it. Sorry to be a dick about it, but Eames said that he loved constraints because it helped him against the existential abyss. So you're welcome.
 
 00:24:53 Erum: Yeah, and all of that should be posted. Including your film, yeah, do not DM it, do not.
 

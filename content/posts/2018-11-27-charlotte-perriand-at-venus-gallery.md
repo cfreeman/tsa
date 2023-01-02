@@ -1,5 +1,5 @@
 ---
-title: Charlotte Perriand at Venus Over Manhattan Gallery
+title: CHARLOTTE PERRIAND AT VENUS OVER MANHATTAN GALLERY
 date: 2018-11-27T00:00:00+00:00
 draft: false
 language: en
@@ -9,7 +9,7 @@ type: tour
 description: Tom Sachs gives a tour of Charlotte Perriand's work at Venus Over Manhattan Gallery.
 
 videos:
-- https://erl.one/archive/2018-11-27-charlotte-perriand-tour.mp4
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2018-11-27-charlotte-perriand-tour.mp4
 
 people:
 - Tom Sachs

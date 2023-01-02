@@ -1,5 +1,5 @@
 ---
-title: Sol Lewitt Lecture
+title: SOL LEWITT LECTURE
 date: 2020-04-24T00:00:00+00:00
 draft: false
 language: en
@@ -9,14 +9,14 @@ type: office-hours
 description: Tom Sachs hosts a art history lesson on Sol Lewitt session from his basement workshop on Instagram Live.
 
 videos:
-- https://erl.one/archive/2020-04-24-office-hours-sol-lewitt.mp4
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt.mp4
 
 images:
-- https://erl.one/archive/2020-04-24-office-hours-sol-lewitt-notes1.jpg
-- https://erl.one/archive/2020-04-24-office-hours-sol-lewitt-notes2.jpg
-- https://erl.one/archive/2020-04-24-office-hours-sol-lewitt-notes3.jpg
-- https://erl.one/archive/2020-04-24-office-hours-sol-lewitt-notes4.jpg
-- https://erl.one/archive/2020-04-24-office-hours-sol-lewitt-notes5.jpg
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes1.jpg
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes2.jpg
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes3.jpg
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes4.jpg
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes5.jpg
 
 people:
 - Tom Sachs

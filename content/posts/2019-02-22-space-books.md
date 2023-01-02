@@ -1,5 +1,5 @@
 ---
-title: Space Books
+title: SPACE BOOKS
 date: 2019-02-22T00:00:00+00:00
 draft: false
 language: en
@@ -9,7 +9,7 @@ type: tour
 description: Tom Sachs provides a quick overview of The NASA Archives by Pierce Bizony, Andrew Chaikin and Roger Launius. He concludes with a tour of the space library in his workshop
 
 videos:
-- https://erl.one/archive/2019-02-22-space-books.mp4
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2019-02-22-space-books.mp4
 
 people:
 - Tom Sachs

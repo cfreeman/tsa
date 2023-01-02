@@ -1,5 +1,5 @@
 ---
-title: Jigsaw and Manet
+title: JIGSAW AND MANET
 date: 2020-05-19T00:00:00+00:00
 draft: false
 language: en
@@ -9,10 +9,10 @@ type: office-hours
 description: Tom Sachs and his wife Sarah Hoover host an office hours segment on jigsaw use and the painter Manet.
 
 videos:
-- https://erl.one/archive/2020-05-19-office-hours-jigsaw-and-manet.mp4
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-05-19-office-hours-jigsaw-and-manet.mp4
 
 images:
-- https://erl.one/archive/2020-05-19-office-hours-jigsaw-and-manet-notes.jpg
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-05-19-office-hours-jigsaw-and-manet-notes.webp
 
 people:
 - Tom Sachs
@@ -73,21 +73,13 @@ I'm afraid that it's gonna break 'cause it's plastic, so I'm going to reinforce 
 
 00:16:43 Erum: Looks great.
 
-00:16:57 Tom Sachs:
+00:16:57 Tom Sachs: Alright, so I'm just gonna show you some.
 
-Alright, so I'm just gonna show you some.
+00:17:05 Tom Sachs: Oh, there's the pencil line.
 
-00:17:05 Tom Sachs:
+00:17:08 Tom Sachs: And then the blades to one side don't cut it down the middle. Always cut to one side or another. Someone, oh Martin.
 
-Oh, there's the pencil line.
-
-00:17:08 Tom Sachs:
-
-And then the blades to one side don't cut it down the middle. Always cut to one side or another. Someone, oh Martin.
-
-00:17:21 Tom Sachs:
-
-When you're making the cut, how does it in mind not wander when I'm doing a cut like this is kind of the only time my life that my mind doesn't wander, it is my place of Zen, probably from 'cause I learned on the table saw. And if your mind wanders in the table, saw you, your penis gets cut off. So I translated that obsession to this kind of cutting and with a scalpel or the box cutter, because that's really when you're in trouble.
+00:17:21 Tom Sachs: When you're making the cut, how does it in mind not wander when I'm doing a cut like this is kind of the only time my life that my mind doesn't wander, it is my place of Zen, probably from 'cause I learned on the table saw. And if your mind wanders in the table, saw you, your penis gets cut off. So I translated that obsession to this kind of cutting and with a scalpel or the box cutter, because that's really when you're in trouble.
 
 00:17:47 Tom Sachs: So I'm going to keep cutting. Show you a little bit. Finish the cut. I'm kind of Pulsing it along, being very, very careful. OK, that's how you do it cut, that's all there is to it. Again, leaning ever so slightly forward. I'm gonna show you the difference between flat. Flat and forward is that that's that much. It's just it's just a little rocker right now. Show you one more trick.
 
@@ -196,55 +188,3 @@ When you're making the cut, how does it in mind not wander when I'm doing a cut 
 00:45:10 Tom Sachs: Keep your dick in a vice.
 
 00:45:15 Tom Sachs: End. Thanks end. End
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

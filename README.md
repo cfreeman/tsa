@@ -30,6 +30,9 @@ git push origin gh-pages
 
 ## TODO
 * Add a contributors page.
+* Polish metadata for existing files.
+* ~~Encode images to webp.~~
+* ~~Upload to CDN.~~
 * ~~Add meta description.~~
 * ~~Update favicon.~~
 * ~~YouTube and Vimeo lite-shims.~~

@@ -9,7 +9,7 @@ type: office-hours
 description: In this nerds only whiteboard session, Sachs and Steltzner explore what it would take to send humanity to the asteroid Vesta and how they would take a rock sample in an extremely low gravity environment.
 
 videos:
-- https://erl.one/archive/2020-12-28-adam-steltzner-whiteboard.mp4
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-12-28-adam-steltzner-whiteboard.mp4
 
 people:
 - Tom Sachs

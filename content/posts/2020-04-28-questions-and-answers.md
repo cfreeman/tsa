@@ -1,5 +1,5 @@
 ---
-title: 2020-04-28 Questions and Answers
+title: Q&A 2020-04-28
 date: 2020-04-28T00:00:00+00:00
 draft: false
 language: en
@@ -9,11 +9,11 @@ type: office-hours
 description: Tom Sachs hosts a question and answer session on Instagram live from his basement workshop.
 
 videos:
-- https://erl.one/archive/2020-04-28-office-hours-q-and-a.mp4
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-28-office-hours-q-and-a.mp4
 
 images:
-- https://erl.one/archive/2020-04-28-office-hours-q-and-a-notes1.jpg
-- https://erl.one/archive/2020-04-28-office-hours-q-and-a-notes2.jpg
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-28-office-hours-q-and-a-notes1.jpg
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-28-office-hours-q-and-a-notes2.jpg
 
 people:
 - Tom Sachs

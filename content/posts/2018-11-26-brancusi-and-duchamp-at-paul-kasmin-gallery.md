@@ -1,5 +1,5 @@
 ---
-title: Brâncuși and Duchamp at Paul Kasmin Gallery
+title: BRÂCUSI AND DUCHAMP AT PAUL KASMIN GALLERY
 date: 2018-11-26T00:00:00+00:00
 draft: false
 language: en
@@ -9,7 +9,7 @@ type: tour
 description: Tom Sachs gives a tour of Brâncuși and Duchamp's work displayed at Paul Kasmin Gallery.
 
 videos:
-- https://erl.one/archive/2018-11-26-brancusi-and-duchamp-tour.mp4
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2018-11-26-brancusi-and-duchamp-tour.mp4
 
 people:
 - Tom Sachs
