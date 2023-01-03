@@ -197,118 +197,116 @@ people:
 
 {{< jump "00:37:58">}} Adam Steltzner: Right, so you know last year I I sometimes speak to corporate audiences about collaboration. You know, every single thing groups of people to do in your studio. Anywhere we do a thing, a beautiful thing. We do it in groups of people working together and I woke up to that in my day job and I talk to people about that. It's sort of obvious, but. People still need hear it. I did that 33 times last year, in 2019. And that takes me, you know, whatever China, I don't know you're all over the place and I'm not so sure I'm gonna do that as often. I mean, for all of the hearing my kids fight and trying to do work while they're running back and forth. The contact with my children and the realization of what I can get done, not physically present at the lab. Will stay with me and I think it will stay with a lot of other people and I think that will I mean. There's some things you just need to be together to do. I mean whiteboard stuff. I want more whiteboard. I want people throwing ideas. I wanna be arguing and moving. But but I think that. I can't imagine going back. All five days of a week into the office, so I'm more work from home, more connection with family will something that I take out? How about you?
 
+{{< jump "00:39:28">}} Tom Sachs: Yeah, I think. Like for me it's been spending more time doing ceramics in the basement and focusing on more humble stuff like. You know, getting back to my roots, I got very I do ceramics to alleviate my stress of my day job. Being world famous artist, it's very stressful. There's a lot of details to maintain and stuff so drawing. And ceramics is the part of my art that is like in a way, the most super. It's soothing, it's pure. It's the most demanding. I can't do anything else I can't like. Even listen to music. I can't do anything but that and it's so in a way it's like meditation.
 
+{{< jump "00:40:15">}} Adam Steltzner: This is still porcelain work you're doing? That’s crazy.
 
- 00:39:28 Tom Sachs: Yeah, I think. Like for me it's been spending more time doing ceramics in the basement and focusing on more humble stuff like. You know, getting back to my roots, I got very I do ceramics to alleviate my stress of my day job. Being world famous artist, it's very stressful. There's a lot of details to maintain and stuff so drawing. And ceramics is the part of my art that is like in a way, the most super. It's soothing, it's pure. It's the most demanding. I can't do anything else I can't like. Even listen to music. I can't do anything but that and it's so in a way it's like meditation.
+{{< jump "00:40:17">}} Tom Sachs: Yeah, like that.
 
-00:40:15 Adam Steltzner: This is still porcelain work you're doing? That’s crazy.
+{{< jump "00:40:20">}} Adam Steltzner: I love that.
 
-00:40:17 Tom Sachs: Yeah, like that.
+{{< jump "00:40:21">}} Tom Sachs: And so something in. And then there's an an exponential difficulty curve as it gets larger, right? So this is like a coffee Cup and this is a copita. And then Next up from a coffee Cup would be like a tea bowl.
 
-00:40:20 Adam Steltzner: I love that.
+{{< jump "00:40:34">}} Tom Sachs: An as they get larger, they get more difficult to manage because porcelain has all these really quirky things about it. Like it's it's. It's very very fine and it's it. It gets gummy and it collapses and it has to be just the right or else it's it's too dry and it cracks. It's is very narrow latitude material so. But as it gets bigger, my hands. I think if I had bigger hands it be easier for me to make bigger things. But because my hands are like whatever medium size, I can make medium sized things easily. And then of course everything shrinks but that whole like presentness of mind is so. That you can't fake it like I'll do it. I'll list the music, all the conversation they'll look down. I think I made and it's pretty mediocre, but if I'm just, you know, full on Zen focused, it's it's better, and until and there's nothing that that is a greater thermometer, thermometer, or barometer measure of my focus than something that when you push into it. It leaves your fingerprints and then 50,000 years later.
 
-00:40:21 Tom Sachs: And so something in. And then there's an an exponential difficulty curve as it gets larger, right? So this is like a coffee Cup and this is a copita. And then Next up from a coffee Cup would be like a tea bowl.
+{{< jump "00:41:45">}} Adam Steltzner: It’s still there.
 
-00:40:34 Tom Sachs: An as they get larger, they get more difficult to manage because porcelain has all these really quirky things about it. Like it's it's. It's very very fine and it's it. It gets gummy and it collapses and it has to be just the right or else it's it's too dry and it cracks. It's is very narrow latitude material so. But as it gets bigger, my hands. I think if I had bigger hands it be easier for me to make bigger things. But because my hands are like whatever medium size, I can make medium sized things easily. And then of course everything shrinks but that whole like presentness of mind is so. That you can't fake it like I'll do it. I'll list the music, all the conversation they'll look down. I think I made and it's pretty mediocre, but if I'm just, you know, full on Zen focused, it's it's better, and until and there's nothing that that is a greater thermometer, thermometer, or barometer measure of my focus than something that when you push into it. It leaves your fingerprints and then 50,000 years later.
+{{< jump "00:41:46">}} Tom Sachs: Yeah Yeah.
 
-00:41:45 Adam Steltzner: It’s still there.
+{{< jump "00:41:47">}} Adam Steltzner: So when I was a kid I grew up, I grew up in in Marin County an. Um, two things I I had lots of friends who were the children of Zen students at the at the Zen Center. In San Francisco? And so I have some passing familiarity with with some of the Zen practices including sitting zazen, which is where you're meditating. And it's you're mentioning for a long time. I don't know, maybe 24 hours or lot many hours of sitting there meditating, and one of the natural things that happens is you fall asleep. And so there is a. Procter present with a with a bamboo cane. An if you start to slip or you brought in your your focus is re-established and so I can remember. So Marin County's where mountain bikes were sort of started and I was there in that time when that was happening, and. And I can remember. One of the things I love and I still mountain bike today and I trailed on. I just railed on today and one of the things I love about that is the same kind of focus you referred to with working with porcelain, which is. You're in it, you're focused on it your whole awareness has to just everything else in the universe has to peel away and you have to be completely present with the trail. And if you Doze off for a moment. If you think about something, boom, you're on your ass because you've got to be 100% present and that that commitment to being in the moment that focus is amazingly. Um? I don't. It's like tranquil, it's.
 
-00:41:46 Tom Sachs: Yeah Yeah.
+{{< jump "00:43:46">}} Tom Sachs: Yeah, it's free. It's freeing for me and that's always the thing about surfing is. It's so hard to do so you and you just focus or an an there's there's endless activities so yeah, weightlifting is is not like a deadlift. Yeah, can you can fuck yourself up, you know. And it gets in a way easier as you do a heavier weight because you have to really focus more well, lighter weight. You can kind of be like. You know, thinking about other stuff? Yep, so here.
 
-00:41:47 Adam Steltzner: So when I was a kid I grew up, I grew up in in Marin County an. Um, two things I I had lots of friends who were the children of Zen students at the at the Zen Center. In San Francisco? And so I have some passing familiarity with with some of the Zen practices including sitting zazen, which is where you're meditating. And it's you're mentioning for a long time. I don't know, maybe 24 hours or lot many hours of sitting there meditating, and one of the natural things that happens is you fall asleep. And so there is a. Procter present with a with a bamboo cane. An if you start to slip or you brought in your your focus is re-established and so I can remember. So Marin County's where mountain bikes were sort of started and I was there in that time when that was happening, and. And I can remember. One of the things I love and I still mountain bike today and I trailed on. I just railed on today and one of the things I love about that is the same kind of focus you referred to with working with porcelain, which is. You're in it, you're focused on it your whole awareness has to just everything else in the universe has to peel away and you have to be completely present with the trail. And if you Doze off for a moment. If you think about something, boom, you're on your ass because you've got to be 100% present and that that commitment to being in the moment that focus is amazingly. Um? I don't. It's like tranquil, it's.
+{{< jump "00:44:19">}} Tom Sachs: Well, what's your favorite punk rock band? Two people asked.
 
-00:43:46 Tom Sachs: Yeah, it's free. It's freeing for me and that's always the thing about surfing is. It's so hard to do so you and you just focus or an an there's there's endless activities so yeah, weightlifting is is not like a deadlift. Yeah, can you can fuck yourself up, you know. And it gets in a way easier as you do a heavier weight because you have to really focus more well, lighter weight. You can kind of be like. You know, thinking about other stuff? Yep, so here.
+{{< jump "00:44:24">}} Adam Steltzner: Oh wow.
 
-00:44:19 Tom Sachs: Well, what's your favorite punk rock band? Two people asked.
+{{< jump "00:44:27">}} Adam Steltzner: Oh, I don't know. God, that's like children.
 
-00:44:24 Adam Steltzner: Oh wow.
+{{< jump "00:44:30">}} Tom Sachs: I know that's a tough one that is tough.
 
-00:44:27 Adam Steltzner: Oh, I don't know. God, that's like children.
+{{< jump "00:44:34">}} Adam Steltzner: Black Flag probably.
 
-00:44:30 Tom Sachs: I know that's a tough one that is tough.
+{{< jump "00:44:39">}} Tom Sachs: Yeah, I mean, I think that there's you know there are like the the Titans you know, like Black Flag and minor threat and Bad Brains and Dead Kennedys. Yeah so it's like you.
 
-00:44:34 Adam Steltzner: Black Flag probably.
+{{< jump "00:44:48">}} Adam Steltzner: Dead Kennedys. Thank you for Dead Kennedys. Yeah, you know, that's hard to not say Dead Kennedys, because such great politics.
 
-00:44:39 Tom Sachs: Yeah, I mean, I think that there's you know there are like the the Titans you know, like Black Flag and minor threat and Bad Brains and Dead Kennedys. Yeah so it's like you.
+{{< jump "00:45:01">}} Tom Sachs: Yeah, I mean to me there a little bit like higher than the rest, just 'cause. I think they were they.
 
-00:44:48 Adam Steltzner: Dead Kennedys. Thank you for Dead Kennedys. Yeah, you know, that's hard to not say Dead Kennedys, because such great politics.
+{{< jump "00:45:08">}} Adam Steltzner: Were thinkers definitely noggin heads and what's his head went on to do what he was like? Mayor or?
 
-00:45:01 Tom Sachs: Yeah, I mean to me there a little bit like higher than the rest, just 'cause. I think they were they.
+{{< jump "00:45:14">}} Tom Sachs: Jello Biafra for mayor.
 
-00:45:08 Adam Steltzner: Were thinkers definitely noggin heads and what's his head went on to do what he was like? Mayor or?
+{{< jump "00:45:16">}} Adam Steltzner: Yeah yeah yeah, no he didn't make it, but he did make up. He got some like City Council job.
 
-00:45:14 Tom Sachs: Jello Biafra for mayor.
+{{< jump "00:45:23">}} Tom Sachs: I contributed $50 to his campaign when I was in college, but other things are. Much just 'cause. That guy really helped me with my own politics. There were so. There was so radical and it was like the Reagan era. It was scary. I mean nothing compared to to now, but I mean, if this guy made Reagan look like you know a movie star or something, but yeah, yeah, But anyway that. So that's your answer. Yeah, but but yeah, but you know, yeah. Yeah, and they all rocked so in different ways.
 
-00:45:16 Adam Steltzner: Yeah yeah yeah, no he didn't make it, but he did make up. He got some like City Council job.
+{{< jump "00:46:03">}} Tom Sachs: OK, so let's see. Ah. How important is an aerospace engineer? Is it to know Catla (catia)?
 
-00:45:23 Tom Sachs: I contributed $50 to his campaign when I was in college, but other things are. Much just 'cause. That guy really helped me with my own politics. There were so. There was so radical and it was like the Reagan era. It was scary. I mean nothing compared to to now, but I mean, if this guy made Reagan look like you know a movie star or something, but yeah, yeah, But anyway that. So that's your answer. Yeah, but but yeah, but you know, yeah. Yeah, and they all rocked so in different ways.
+{{< jump "00:46:14">}} Adam Steltzner: I don't know Catla (catia). What is Catla?
 
-00:46:03 Tom Sachs: OK, so let's see. Ah. How important is an aerospace engineer? Is it to know Catla (catia)?
+{{< jump "00:46:17">}} Tom Sachs: I don't know what it is. I'm moving on to the next question.
 
-00:46:14 Adam Steltzner: I don't know Catla (catia). What is Catla?
+{{< jump "00:46:22">}} Adam Steltzner: Not important.
 
-00:46:17 Tom Sachs: I don't know what it is. I'm moving on to the next question.
+{{< jump "00:46:25">}} Tom Sachs: There you go.
 
-00:46:22 Adam Steltzner: Not important.
+{{< jump "00:46:32">}} Tom Sachs: Woah.
 
-00:46:25 Tom Sachs: There you go.
+{{< jump "00:46:36">}} Tom Sachs: Sorry
 
-00:46:32 Tom Sachs: Woah.
+{{< jump "00:46:37">}} Adam Steltzner: No it’s OK.
 
-00:46:36 Tom Sachs: Sorry
+{{< jump "00:46:39">}} Tom Sachs: People keep. Keep.
 
-00:46:37 Adam Steltzner: No it’s OK.
+{{< jump "00:46:42">}} Adam Steltzner: It’s hard. It’s hard to pull em off the scroll, I can barely see the scroll.
 
-00:46:39 Tom Sachs: People keep. Keep.
+{{< jump "00:46:49">}} Tom Sachs: Recoilless drilling techniques, love you both.
 
-00:46:42 Adam Steltzner: It’s hard. It’s hard to pull em off the scroll, I can barely see the scroll.
+{{< jump "00:46:54">}} Adam Steltzner: I do Miss Madison a bit. I went to I got my finished my PhD in Madison, WI and it's a great city. And the people of of the of the Midwest are very kind. Good souls and I miss that. I miss that more.
 
-00:46:49 Tom Sachs: Recoilless drilling techniques, love you both.
+{{< jump "00:47:15">}} Tom Sachs: Do you still play klezmer?
 
-00:46:54 Adam Steltzner: I do Miss Madison a bit. I went to I got my finished my PhD in Madison, WI and it's a great city. And the people of of the of the Midwest are very kind. Good souls and I miss that. I miss that more.
+{{< jump "00:47:17">}} Adam Steltzner: Oh wow, people are deep diving.
 
-00:47:15 Tom Sachs: Do you still play klezmer?
+{{< jump "00:47:19">}} Tom Sachs: Yeah, they know who you are man, you're famous.
 
-00:47:17 Adam Steltzner: Oh wow, people are deep diving.
+{{< jump "00:47:22">}} Adam Steltzner: I don't still play klezmer klezmer. That was a you know Chewbacca which was. The band I was in in in Madison is, you know, I have.
 
-00:47:19 Tom Sachs: Yeah, they know who you are man, you're famous.
+{{< jump "00:47:34">}} Tom Sachs: I thought it was the id vicious?
 
-00:47:22 Adam Steltzner: I don't still play klezmer klezmer. That was a you know Chewbacca which was. The band I was in in in Madison is, you know, I have.
+{{< jump "00:47:36">}} Adam Steltzner: No, we actually id Vicious was a band that opened for us and so I have a great poster that id vicious and and Chewbacca, but now we were Chewbacca, a Afro Cuban klezmer. Nonette and everybody was playing second instruments and anyway it was a blast. But that no, I do play now a little bit. I was playing some country music with this friend. Who's the deputy project Engineer on Project scientist for? For 2020? Ken Williford. But you know that certainly got's all screwed up by the by the by the covid.
 
-00:47:34 Tom Sachs: I thought it was the id vicious?
+{{< jump "00:48:24">}} Tom Sachs: Alright. Here's a good one. What's the? What's the percentage of your? Your. How do you evaluate ideas to find the least offensive approach? How much is intuition and how much is math?
 
-00:47:36 Adam Steltzner: No, we actually id Vicious was a band that opened for us and so I have a great poster that id vicious and and Chewbacca, but now we were Chewbacca, a Afro Cuban klezmer. Nonette and everybody was playing second instruments and anyway it was a blast. But that no, I do play now a little bit. I was playing some country music with this friend. Who's the deputy project Engineer on Project scientist for? For 2020? Ken Williford. But you know that certainly got's all screwed up by the by the by the covid.
+{{< jump "00:48:41">}} Adam Steltzner: Oh cool
 
-00:48:24 Tom Sachs: Alright. Here's a good one. What's the? What's the percentage of your? Your. How do you evaluate ideas to find the least offensive approach? How much is intuition and how much is math?
+{{< jump "00:48:43">}} Tom Sachs: Isn’t that a good one?
 
-00:48:41 Adam Steltzner: Oh cool
+{{< jump "00:48:47">}} Adam Steltzner: Yeah, that's a great one. Let's... What's... Yeah. God that's rich. So, one there isn't a single answer to that question because it depends on the design the question at hand, some of them are determined 100% by math. Right, those are, by the way, the least interesting, because I could write a computer program to do that right, and that's not that good. What is very interesting to me, much more interesting to me. Are these design questions where you've got... You're optimizing and you're optimizing on on sparse data. Sparse information. And you're making judgment calls and your risk balancing and your risk bouncing against known unknowns, an unknown unknowns, and you're trying to figure out what the right right thing to do is. And you don't do it by yourself. You're doing it with teams of smart people and debate you really. I love to just get in there fisticuffs and. Argue and and and listen to different points of view and have my mind changed. I love that. That's why. That actually is another great moment of awakening story right? It's like this. When you discover that you are holding on tight with all your might to something that you've realized isn't the right idea. That is it. 'cause when you when you let go of this concept that you were holding, there is an ego loss you had invested and so your ego is crushed. And that's liberating. It's like it's transforming. It's like you're letting go of you. It's sort of a letting leaving yourself behind anyway. So, it is there's no ratio of it. It depends on the subject. Depends on the question I am the most energized by the questions that don't have a set answer. I was I I got into engineering for the questions that did have a set answer. I came out of music. I was like everything is big in the arts. I can't even analyst. I want an answer and then I learned about how to get answers and I got good at getting answers and eventually I'm like. Answers are boring.
 
-00:48:43 Tom Sachs: Isn’t that a good one?
+{{< jump "00:51:14">}} Tom Sachs: OK, so. Here's a here's a here's a question. If you were to make a piece of art on zeor G flight. You know the vomit comet. How. What can you do to take advantage of that those conditions of weightlessness to affect change on a material?
 
-00:48:47 Adam Steltzner: Yeah, that's a great one. Let's... What's... Yeah. God that's rich. So, one there isn't a single answer to that question because it depends on the design the question at hand, some of them are determined 100% by math. Right, those are, by the way, the least interesting, because I could write a computer program to do that right, and that's not that good. What is very interesting to me, much more interesting to me. Are these design questions where you've got... You're optimizing and you're optimizing on on sparse data. Sparse information. And you're making judgment calls and your risk balancing and your risk bouncing against known unknowns, an unknown unknowns, and you're trying to figure out what the right right thing to do is. And you don't do it by yourself. You're doing it with teams of smart people and debate you really. I love to just get in there fisticuffs and. Argue and and and listen to different points of view and have my mind changed. I love that. That's why. That actually is another great moment of awakening story right? It's like this. When you discover that you are holding on tight with all your might to something that you've realized isn't the right idea. That is it. 'cause when you when you let go of this concept that you were holding, there is an ego loss you had invested and so your ego is crushed. And that's liberating. It's like it's transforming. It's like you're letting go of you. It's sort of a letting leaving yourself behind anyway. So, it is there's no ratio of it. It depends on the subject. Depends on the question I am the most energized by the questions that don't have a set answer. I was I I got into engineering for the questions that did have a set answer. I came out of music. I was like everything is big in the arts. I can't even analyst. I want an answer and then I learned about how to get answers and I got good at getting answers and eventually I'm like. Answers are boring.
+{{< jump "00:51:44">}} Adam Steltzner: Yeah, So what? I what my first instinct it is really an instinctive impulse is to use surface tension and the ability for surface tension to over. To shine more than it would normally be able to shine in the presence of a gravity field. So I take a drop of water. I put it on a surface, it flattens out and the shape that the drop of water takes is a equilibrium between the the the the body forces. That are pulling it down the surface tension that's keeping it intact and some interaction with the surface it is on. And so as soon as I get away from from a gravity field, I mean you know the. My instinct is to say exactly what I mean, do what exactly I do just said. The first thought about what it is is boring because I'll just have lots of spheres, right? 'cause I'll I'll make it. Uh, you know, spit out a thing of water and it will make a perfect round bubble because it's unaffected by other body forces. But anyway, I. I’d futz around with that. That's why I'd futz around with.
 
-00:51:14 Tom Sachs: OK, so. Here's a here's a here's a question. If you were to make a piece of art on zeor G flight. You know the vomit comet. How. What can you do to take advantage of that those conditions of weightlessness to affect change on a material?
+{{< jump "00:52:56">}} Tom Sachs: OK, that sounds interesting. One of my favorite questions and I'm thinking of saving it for the end. We are coming up on an hour but I we could keep going but And I think I know the answer, but I I love your answer and I use it as my own very often and that's would you go to Mars?
 
-00:51:44 Adam Steltzner: Yeah, So what? I what my first instinct it is really an instinctive impulse is to use surface tension and the ability for surface tension to over. To shine more than it would normally be able to shine in the presence of a gravity field. So I take a drop of water. I put it on a surface, it flattens out and the shape that the drop of water takes is a equilibrium between the the the the body forces. That are pulling it down the surface tension that's keeping it intact and some interaction with the surface it is on. And so as soon as I get away from from a gravity field, I mean you know the. My instinct is to say exactly what I mean, do what exactly I do just said. The first thought about what it is is boring because I'll just have lots of spheres, right? 'cause I'll I'll make it. Uh, you know, spit out a thing of water and it will make a perfect round bubble because it's unaffected by other body forces. But anyway, I. I’d futz around with that. That's why I'd futz around with.
+{{< jump "00:53:19">}} Adam Steltzner: Oh, and and the answer for me is no. Because there's lots of reasons. I mean, you know the truth of the matter is we evolved here, we humans. It's like the right thing, and I've got a beautiful garden and a lovely family. And great mescal and some wicked single malt Copperworks Pacific Northwest Whiskey an I, you know, watch the Sunset, watch the garden Bloom hang out here. That's more my gig. Mars is, you know where about where we, the family, about to go out into the desert and go camping. We like to go camping. I love to go camping. We like. I love people, but I also love not people. Nobody around, so we go off to the Mojave Desert, but the Mojave Desert is like a warm wet kiss compared to the surface of Mars. And so. I like I like this place.
 
-00:52:56 Tom Sachs: OK, that sounds interesting. One of my favorite questions and I'm thinking of saving it for the end. We are coming up on an hour but I we could keep going but And I think I know the answer, but I I love your answer and I use it as my own very often and that's would you go to Mars?
+{{< jump "00:54:26">}} Tom Sachs: Yep. Yeah, that's I. Me too. Me too.
 
-00:53:19 Adam Steltzner: Oh, and and the answer for me is no. Because there's lots of reasons. I mean, you know the truth of the matter is we evolved here, we humans. It's like the right thing, and I've got a beautiful garden and a lovely family. And great mescal and some wicked single malt Copperworks Pacific Northwest Whiskey an I, you know, watch the Sunset, watch the garden Bloom hang out here. That's more my gig. Mars is, you know where about where we, the family, about to go out into the desert and go camping. We like to go camping. I love to go camping. We like. I love people, but I also love not people. Nobody around, so we go off to the Mojave Desert, but the Mojave Desert is like a warm wet kiss compared to the surface of Mars. And so. I like I like this place.
+{{< jump "00:54:33">}} Tom Sachs: So what do you think? I mean? I, you know, I think it's an hour an I think that's that's good. I'd be very happy to do this again with you anytime, and I want to thank you all for tuning in for all your questions and just a little reminder that they'll. The rover will be landing on Mars.
 
-00:54:26 Tom Sachs: Yep. Yeah, that's I. Me too. Me too.
+{{< jump "00:55:07">}} Adam Steltzner: 18th of February mid day on. The Pacific so 3:00 PM ish for East Coast or wherever you are. We will, you know check mars.jpl.nasa.gov for countown information for all the things that you you know, all the details NASA TV will have it running. You can also you know, looking on my Instagram I will be talking about it at a stelzner.
 
-00:54:33 Tom Sachs: So what do you think? I mean? I, you know, I think it's an hour an I think that's that's good. I'd be very happy to do this again with you anytime, and I want to thank you all for tuning in for all your questions and just a little reminder that they'll. The rover will be landing on Mars.
+{{< jump "00:55:43">}} Tom Sachs: Uh, yeah. Follow Adam 'cause it's his his feeds good and there's a lot more that's coming. Right?
 
-00:55:07 Adam Steltzner: 18th of February mid day on. The Pacific so 3:00 PM ish for East Coast or wherever you are. We will, you know check mars.jpl.nasa.gov for countown information for all the things that you you know, all the details NASA TV will have it running. You can also you know, looking on my Instagram I will be talking about it at a stelzner.
+{{< jump "00:55:50">}} Adam Steltzner: Yes yeah yes yes yes yes yes yes. Tom is on my case 'cause I don't post enough.
 
-00:55:43 Tom Sachs: Uh, yeah. Follow Adam 'cause it's his his feeds good and there's a lot more that's coming. Right?
+{{< jump "00:55:56">}} Tom Sachs: Well, you're so you're so good though, and your world is so magic I mean, oh they if an if you can. When this whole thing gets back to that like the post Apocalypse. Like go. People sign up for the JPL tour. It's a public thing. Anyone can do it. And it's awesome. Yeah, public tour, that's like you don't need special access. You have to like sign up. It's so unbelievable. Just like walking around the parking lot and you can see the Mars yard itself. Is there you. You can look into the class 10,000 clean room. I mean just and if you like that movie The Martian and all those shots of them like setting up. The the home version of it while they're trying to recreate it? Yeah, it's that shitty. Like JPL is that it's that. An an it's really it's beautiful and these are like the smartest minds in the. On the planet basically all gathered in this spot and there in like the class 10,000 clean rooms got like buckets in it because it's got like a leaky roof, right? It has high pressure, positive pressure room, but it still got water dripping and that's like it's very humbling. Right that that it can be like that, so I'd encourage you to do that. Also, my space program will be launching in in mid-June in Hamburg, Germany. So if you're there for Art Basel...
 
-00:55:50 Adam Steltzner: Yes yeah yes yes yes yes yes yes. Tom is on my case 'cause I don't post enough.
+{{< jump "00:57:27">}} Adam Steltzner: I’m gonna have Pfizer in this arm and Moderna in this armor. I'm gonna be there baby.
 
-00:55:56 Tom Sachs: Well, you're so you're so good though, and your world is so magic I mean, oh they if an if you can. When this whole thing gets back to that like the post Apocalypse. Like go. People sign up for the JPL tour. It's a public thing. Anyone can do it. And it's awesome. Yeah, public tour, that's like you don't need special access. You have to like sign up. It's so unbelievable. Just like walking around the parking lot and you can see the Mars yard itself. Is there you. You can look into the class 10,000 clean room. I mean just and if you like that movie The Martian and all those shots of them like setting up. The the home version of it while they're trying to recreate it? Yeah, it's that shitty. Like JPL is that it's that. An an it's really it's beautiful and these are like the smartest minds in the. On the planet basically all gathered in this spot and there in like the class 10,000 clean rooms got like buckets in it because it's got like a leaky roof, right? It has high pressure, positive pressure room, but it still got water dripping and that's like it's very humbling. Right that that it can be like that, so I'd encourage you to do that. Also, my space program will be launching in in mid-June in Hamburg, Germany. So if you're there for Art Basel...
+{{< jump "00:57:32">}} Tom Sachs: Yeah, and so that'll be again, we're developing that so it will be more things you can go to my Instagram page. The page that you're on right now to learn more about that. And yes, you can will be doing space camp there. And maybe we'll be doing some virtual stuff. Who knows where we're going to be by June? Thank you, Adam. Thank you so much. This is great. Love you brother and look forward to continuing this.
 
-00:57:27 Adam Steltzner: I’m gonna have Pfizer in this arm and Moderna in this armor. I'm gonna be there baby.
-
-00:57:32 Tom Sachs: Yeah, and so that'll be again, we're developing that so it will be more things you can go to my Instagram page. The page that you're on right now to learn more about that. And yes, you can will be doing space camp there. And maybe we'll be doing some virtual stuff. Who knows where we're going to be by June? Thank you, Adam. Thank you so much. This is great. Love you brother and look forward to continuing this.
-
-00:57:52 Adam Steltzner: Alright, good, take care.
+{{< jump "00:57:52">}} Adam Steltzner: Alright, good, take care.
