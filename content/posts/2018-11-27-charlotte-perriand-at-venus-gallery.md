@@ -16,30 +16,28 @@ people:
 
 ---
 
-Tom Sachs: Alright, so here we are at Venus over Manhattan on... What's the address here? 980 Madison and we're here to look at Charlotte Perriand and she was the man behind the man known as Le Corbusier. And here we're looking at her kitchen that she did for the Unité d'habitation in Marseille. And that was kind of the most important post war housing development.
+{{< jump "00:00:00">}} Tom Sachs: Alright, so here we are at Venus over Manhattan on... What's the address here? 980 Madison and we're here to look at Charlotte Perriand and she was the man behind the man known as Le Corbusier. And here we're looking at her kitchen that she did for the Unité d'habitation in Marseille. And that was kind of the most important post war housing development.
 
-Tom Sachs: The Corbusier, you know they say he was a Nazi sympathizer, but he I think he just wanted to be on the side that was going to win. Anyway, the plan was that they were going to build hundreds of these all over Europe to solve the post war housing crisis, but I think they made like one and two halves, and the one that is it is a Marseille and this was in Marseille and it's now in a fancy art Gallery on Madison Ave.
+{{< jump "00:00:28">}} Tom Sachs: The Corbusier, you know they say he was a Nazi sympathizer, but he I think he just wanted to be on the side that was going to win. Anyway, the plan was that they were going to build hundreds of these all over Europe to solve the post war housing crisis, but I think they made like one and two halves, and the one that is it is a Marseille and this was in Marseille and it's now in a fancy art Gallery on Madison Ave.
 
-Tom Sachs: That's Charlotte Perriand in Le Corbusier chair that I think she did. Maybe. He gets the credit, but she's probably did it anyway. You walk down the Hall, you walk in the building, your Mail goes in this slot and your milk goes in this slot. Now of course this and that's like an insulated milk container. Now of course this is an expensive work of Art. But at the time it was engineered.
+{{< jump "00:00:51">}} Tom Sachs: That's Charlotte Perriand in Le Corbusier chair that I think she did. Maybe. He gets the credit, but she's probably did it anyway. You walk down the Hall, you walk in the building, your Mail goes in this slot and your milk goes in this slot. Now of course this and that's like an insulated milk container. Now of course this is an expensive work of Art. But at the time it was engineered.
 
-Tom Sachs: That's the fuse box in the hallway. It was engineered to be for workers, and so everything was very efficient. And here you've got two burners not four. The range hood that does exhaust to the outside. If you go into most apartments, workers, apartments, the the exhaust doesn't go out into the street. It recirculates back into the apartment for creating toxic gas. But, check this detail out that stupid space above the range hood? Pots and pans baby.
+{{< jump "00:01:19">}} Tom Sachs: That's the fuse box in the hallway. It was engineered to be for workers, and so everything was very efficient. And here you've got two burners not four. The range hood that does exhaust to the outside. If you go into most apartments, workers, apartments, the the exhaust doesn't go out into the street. It recirculates back into the apartment for creating toxic gas. But, check this detail out that stupid space above the range hood? Pots and pans baby.
 
-Tom Sachs: This is aluminum. I think it's cast one piece sink and the idea is if you make a lot of 'em it gets cheaper and that was what Jean Prouvé tried to do also.
+{{< jump "00:01:53">}} Tom Sachs: This is aluminum. I think it's cast one piece sink and the idea is if you make a lot of 'em it gets cheaper and that was what Jean Prouvé tried to do also.
 
-Tom Sachs: And these bold colors. No room for decoration.
+{{< jump "00:02:08">}} Tom Sachs: And these bold colors. No room for decoration.
 
-Tom Sachs: Anyway, check it out. Charlotte Perriand.
+{{< jump "00:02:15">}} Tom Sachs: Anyway, check it out. Charlotte Perriand. End of transmission keep your dick in a vice.
 
-Tom Sachs: End of transmission keep your dick in a vice.
+{{< jump "00:02:25">}} Tom Sachs: Alright, check out this wall sconce also Charlotte Perriand. These are prototypes. How much, how much do these?
 
-Tom Sachs: Alright, check out this wall sconce also Charlotte Perriand. These are prototypes. How much, how much do these?
+{{< jump "00:02:36">}} Child: 3000?!
 
-Child: 3000?!
+{{< jump "00:02:38">}} Tom Sachs: Yeah, but they're but they're old. When are they from?
 
-Tom Sachs: Yeah, but they're but they're old. When are they from?
+{{< jump "00:02:42">}} Child: 1984
 
-Child: 1984
+{{< jump "00:02:45">}} Tom Sachs: I think I think these might be from the 1950s. An an there and they're very few of them left there are reproduction ones that are not nearly as beautiful.
 
-Tom Sachs: I think I think these might be from the 1950s. An an there and they're very few of them left there are reproduction ones that are not nearly as beautiful.
-
-Tom Sachs: Anyway, check those out too they're cool.
+{{< jump "00:03:00">}} Tom Sachs: Anyway, check those out too they're cool.
