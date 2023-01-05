@@ -31,7 +31,7 @@ git push origin gh-pages
 ## TODO
 * Add a contributors page.
 * Polish metadata for existing files.
-	* Add timestamps to space books and 2020-04-14
+	* Add timestamps to ~~space books~~ and 2020-04-14
 * A random featured thing at the top of the page.
 	* Generate rss.xml
 	* Generate random subset.xml as well. Use subset.xml as the source file for a featured content.
