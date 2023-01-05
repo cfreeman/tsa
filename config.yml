@@ -2,3 +2,13 @@ baseURL: https://tomsachsarchive.org/
 languageCode: en-us
 title: Tom Sachs Archive
 theme: tsa
+enableRobotsTXT: true
+
+outputs:
+  home: ["HTML", "RSS"]
+  posts: ["HTML", "JSON"]
+
+outputFormats:
+  RSS:
+    mediatype: "application/rss"
+    baseName: "rss"
