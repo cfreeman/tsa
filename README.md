@@ -31,12 +31,10 @@ git push origin gh-pages
 ## TODO
 * Add a contributors page.
 * Polish metadata for existing files.
-* ~~Encode images to webp.~~
-* ~~Upload to CDN.~~
-* ~~Add meta description.~~
-* ~~Update favicon.~~
-* ~~YouTube and Vimeo lite-shims.~~
-
+	* Add timestamps to space books and 2020-04-14
+* A random featured thing at the top of the page.
+	* Generate rss.xml
+	* Generate random subset.xml as well. Use subset.xml as the source file for a featured content.
 * Install stork search engine. https://stork-search.net
 * Add quotes to metadata block and pull noteworthy tom sachs quotes out of archived articles.
 * Update office hour template to render show notes where available.
@@ -44,6 +42,15 @@ git push origin gh-pages
 * Implement filtering by type (office-hours, tour, article, interview, lecture, etc.)
 * Implement filtering by people.
 * Add library card generator.
+
+* ~~Some sort of submit button / system.~~
+	* ~~Instructions weTransfer - custom email address.~~
+* ~~Single javascript fn for jump.~~
+* ~~Encode images to webp.~~
+* ~~Upload to CDN.~~
+* ~~Add meta description.~~
+* ~~Update favicon.~~
+* ~~YouTube and Vimeo lite-shims.~~
 
 ## LICENSE
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:

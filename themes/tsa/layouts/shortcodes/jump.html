@@ -1,3 +1,1 @@
-<a href="#" onclick="var a = {{.Get 0}}.split(':');
- var s = (+a[0]) * 60 * 60 + (+a[1]) * 60 + (+a[2]);
- new Plyr('#player').currentTime =s; window.scrollTo(0, 0);">{{.Get 0}}</a>
+<a href="#" onclick="jump({{.Get 0}});">{{.Get 0}}</a>

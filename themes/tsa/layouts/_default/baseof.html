@@ -20,7 +20,7 @@
 <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
 <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
 <link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
-<link rel="stylesheet" href="/dist/css/main.2.css">
+<link rel="stylesheet" href="/dist/css/main.3.css">
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -29,10 +29,19 @@
 <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
+
+<script>
+  function jump(timestamp) {
+    var a = timestamp.split(':');
+    var s = (+a[0]) * 60 * 60 + (+a[1]) * 60 + (+a[2]);
+    new Plyr('#player').currentTime = s;
+    window.scrollTo(0, 0);
+  }
+</script>
 <div id="layout">
   <header>
-    <div class="donate">
-      Donate <a href="https://donate.stripe.com/7sI8xw25P5AvdK83cg">once off</a> or <a href="https://buy.stripe.com/cN2010eSB9QL35u6ot">recurringly</a>
+    <div>
+      <p class="donate">Donate <a href="https://donate.stripe.com/7sI8xw25P5AvdK83cg">once off</a> or <a href="https://buy.stripe.com/cN2010eSB9QL35u6ot">recurringly</a>&nbsp;&nbsp;</p>
     </div>
     <div class="header">
       <a href="/"><img class="pure-img" src="/images/tsa-logo.webp" width="503" height="60" alt="Tom Sachs Archive Logo"></img></a>
