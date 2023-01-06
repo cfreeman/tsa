@@ -1,0 +1,18 @@
+{
+  "cards": [
+  {{ $section := where .Site.RegularPages "Section" "in" "posts" }}
+  {{ range $i, $e := $section }}
+  {{ if $i }}, {{end}} {
+    "Title": "{{ .Title }}",
+    "Description": "{{ .Description }}",
+    "Date": "{{ .Date }}",
+    "Videos": {{ jsonify .Params.Videos }},
+    "Images": {{ jsonify .Params.Images }},
+    "URL": "{{ .URL }}"
+    }
+  {{end}}
+  ]
+}
+
+
+

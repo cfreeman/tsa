@@ -1,12 +1,26 @@
 {{ define "main" }}
   {{ $section := where .Site.RegularPages "Section" "in" "posts" }}
   <div class="card">
-    <h1 class="card-header">THE HAYSTACK</h1>
+    <div class="stork-wrapper">
+    <input data-stork="tsa" class="stork-input"/>
+    <div data-stork="tsa-output" class="stork-output"></div>
+    </div>
   </div>
 
   <div class="pure-g">
     <div class="pure-u-1-1">
       <p class="submit"><a href="/submit/submit">submit</a>&nbsp;</p>
+      <h1>FEATURED</h1>
+      <div class="feature">
+      <div class="pure-u-1-5">
+        <a id="img-uri" href=""><img id="image" class="pure-img" src="" alt=""></a>
+      </div><div class="pure-u-4-5">
+        <p id="title"></p>
+        <p id="description"></p>
+      </div>
+    </div>
+
+      <h1>THE HAYSTACK</h1>
       <ul class="listing">
         {{ range $section }}
           <li><a href="{{ .Permalink }}">{{ .Title }} ({{ .Type }})</a></li>
@@ -14,4 +28,34 @@
       </ul>
     </div>
   </div>
+
+  <script>
+    function rand(start, end) {
+      return Math.floor((Math.random() * (end - start + 1)) + start) | 0;
+    }
+
+    async function main() {
+      var card = await fetch("/posts/index.json").then( resp => {
+        return resp.json()
+      }).then(data => {
+        var id = rand(0, (data["cards"].length - 1));
+        return (data["cards"][id]);
+      }).catch( err => {
+        console.log("ERR :-S", err);
+      });
+
+      if (card.Videos) {
+        document.getElementById("image").src = card.Videos[0].replace(/\.[^/.]+$/, ".webp");
+      } else if (card.Images) {
+        document.getElementById("image").src = card.Images[0];
+      }
+
+      document.getElementById("img-uri").href = card.URL;
+      document.getElementById("title").innerHTML = "<b><a href=\""+card.URL+"\">"+card.Title+"</a><b>";
+      document.getElementById("description").innerHTML = card.Description;
+      console.log(card);
+    }
+
+    main();
+  </script>
 {{ end }}

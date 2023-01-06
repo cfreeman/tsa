@@ -5,8 +5,9 @@ theme: tsa
 enableRobotsTXT: true
 
 outputs:
-  home: ["HTML", "RSS"]
-  posts: ["HTML", "JSON"]
+  home: ["json", "HTML", "RSS"]
+  section: ["json", "HTML"]
+
 
 outputFormats:
   RSS:
