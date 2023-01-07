@@ -30,11 +30,10 @@ git push origin gh-pages
 
 ## TODO
 * Add a contributors page.
+* fixup app color thing used by safari.
 * Polish up hugo-2-stork utility
 * Script up indexer (and CDN uploading)
 * A nicer way of automating CSS workflows.
-* Polish metadata for existing files.
-	* Add timestamps to ~~space books~~ and 2020-04-14
 * Add quotes to metadata block and pull noteworthy tom sachs quotes out of archived articles.
 * Update office hour template to render show notes where available.
 * Update template to render the list of people in the metadata.
@@ -42,6 +41,8 @@ git push origin gh-pages
 * Implement filtering by people.
 * Add library card generator.
 
+* ~~Polish metadata for existing files.~~
+	* ~~Add timestamps to space books and 2020-04-14~~
 * ~~A random featured thing at the top of the page.~~
 	* ~~Generate rss.xml~~
 	* ~~Generate random subset.xml as well. Use subset.xml as the source file for a featured content.~~
