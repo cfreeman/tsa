@@ -13,3 +13,8 @@ outputFormats:
   RSS:
     mediatype: "application/rss"
     baseName: "rss"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
