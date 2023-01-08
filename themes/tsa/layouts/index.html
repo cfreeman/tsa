@@ -2,7 +2,7 @@
   {{ $section := where .Site.RegularPages "Section" "in" "posts" }}
   <div class="card">
     <div class="stork-wrapper">
-    <input data-stork="tsa" class="stork-input"/>
+    <input id="search" data-stork="tsa" class="stork-input" placeholder="search" />
     <div data-stork="tsa-output" class="stork-output"></div>
     </div>
   </div>
@@ -49,6 +49,7 @@
       } else if (card.Images) {
         document.getElementById("image").src = card.Images[0];
       }
+      document.getElementById("image").alt = "Screenshot from "+card.Title;
 
       document.getElementById("img-uri").href = card.URL;
       document.getElementById("title").innerHTML = "<b><a href=\""+card.URL+"\">"+card.Title+"</a><b>";
