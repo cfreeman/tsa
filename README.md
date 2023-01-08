@@ -29,7 +29,6 @@ git push origin gh-pages
 
 
 ## TODO
-* Add a contributors page.
 * fixup app color thing used by safari.
 * Polish up hugo-2-stork utility
 * Script up indexer (and CDN uploading)
@@ -41,6 +40,8 @@ git push origin gh-pages
 * Implement filtering by people.
 * Add library card generator.
 
+* ~~Add a contributors page.~~
+* ~~Add link to github source.~~
 * ~~Polish metadata for existing files.~~
 	* ~~Add timestamps to space books and 2020-04-14~~
 * ~~A random featured thing at the top of the page.~~

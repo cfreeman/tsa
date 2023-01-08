@@ -69,12 +69,14 @@ a:visited {
 
 .footer {
 	font-size: 10px;
-	padding: 13px;
+	padding-top: 23px;
+	padding-bottom: 23px;
+	padding-left: 13px;
 }
 
 .footer p {
-	margin-top: 13px;
-	margin-bottom: 13px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 
