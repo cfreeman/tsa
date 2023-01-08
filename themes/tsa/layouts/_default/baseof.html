@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
 <meta name="viewport" content="width=device-width,minimum-scale=1">
-<meta name="theme-color" content="#ab342b">
+<meta name="theme-color" content="#c03819">
 
 {{- template "_internal/opengraph.html" . -}}
 {{- template "_internal/schema.html" . -}}
@@ -20,8 +20,9 @@
 <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
 <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
 <link rel="stylesheet" href="https://files.stork-search.net/releases/v1.5.0/basic.css" />
-<link rel="stylesheet" href="/dist/css/main.3.css">
 
+{{ $style := resources.Get "main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

@@ -19,10 +19,8 @@ hugo server --buildFuture --bind 0.0.0.0 -D
 
 
 ## TODO
-* fixup app color thing used by safari.
 * Polish up hugo-2-stork utility
 * Script up indexer (and CDN uploading)
-* A nicer way of automating CSS workflows.
 * Add quotes to metadata block and pull noteworthy tom sachs quotes out of archived articles.
 * Update office hour template to render show notes where available.
 * Update template to render the list of people in the metadata.
@@ -30,6 +28,8 @@ hugo server --buildFuture --bind 0.0.0.0 -D
 * Implement filtering by people.
 * Add library card generator.
 
+* ~~A nicer way of automating CSS workflows.~~
+* ~~fixup app color thing used by safari.~~
 * ~~Add a contributors page.~~
 * ~~Add link to github source.~~
 * ~~Polish metadata for existing files.~~
