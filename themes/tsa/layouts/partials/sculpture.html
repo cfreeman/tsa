@@ -1,0 +1,25 @@
+<div class="card">
+<h1 class="card-header">{{ .Title }}</h1>
+<p class="card-date">
+Tom Sachs. S/N: {{ .Params.serial }}
+({{ .Type }})
+</p>
+
+<p class="card-source">
+Source:
+{{ range $elem_index, $elem_val := .Params.model }}
+  <a href="{{ $elem_val }}">{{ $elem_index }}</a>
+{{ end }}
+</p>
+
+<p class="card-description">{{- .Description -}}</p>
+</div>
+
+
+	<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+	<!-- Use it like any other HTML element -->
+	<model-viewer alt="{{ .Description }}" src="{{ index (.Params.model) 0}}" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+
+
+<div class="card-content">{{- .Content -}}</div>

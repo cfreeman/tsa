@@ -20,7 +20,11 @@ hugo server --buildFuture --bind 0.0.0.0 -D
 
 ## TODO
 * Polish up hugo-2-stork utility
+* Fix up stork errors on detail page.
+* Figure out some way to shim / reduce initial load on mobile for 3D view.
+* Need an image for the model for sculptures.
 * Script up indexer (and CDN uploading)
+	* Look into compressing the index.
 * Add quotes to metadata block and pull noteworthy tom sachs quotes out of archived articles.
 * Update office hour template to render show notes where available.
 * Update template to render the list of people in the metadata.

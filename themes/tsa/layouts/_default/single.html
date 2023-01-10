@@ -2,6 +2,9 @@
   {{ if eq .Type "article" }}
     {{- partial "article.html" . -}}
 
+  {{ else if (eq .Type "sculpture") }}
+    {{- partial "sculpture.html" . -}}
+
   {{ else if (eq .Type "submit") }}
     {{- partial "submit.html" . -}}
 
