@@ -20,21 +20,28 @@
       </div>
     </div>
 
-      <h1>THE HAYSTACK</h1>
-      <ul class="listing">
-        {{ range $section }}
-          <li><a href="{{ .Permalink }}">{{ .Title }} ({{ .Type }})</a></li>
-        {{ end }}
-      </ul>
+    <h1>THE HAYSTACK</h1>
+    <ul class="listing">
+      {{ range $section }}
+        <li><a href="{{ .Permalink }}">{{ .Title }} ({{ .Type }})</a></li>
+      {{ end }}
+    </ul>
     </div>
   </div>
 
+  <script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
   <script>
     function rand(start, end) {
       return Math.floor((Math.random() * (end - start + 1)) + start) | 0;
     }
 
     async function main() {
+      {{ if .Site.IsServer }}
+      stork.register("tsa", "/CDN/index.1.st");
+      {{ else }}
+      stork.register("tsa", "https://tsa.nyc3.cdn.digitaloceanspaces.com/index.1.st");
+      {{ end }}
+
       var card = await fetch("/posts/index.json").then( resp => {
         return resp.json()
       }).then(data => {

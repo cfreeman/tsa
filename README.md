@@ -20,7 +20,6 @@ hugo server --buildFuture --bind 0.0.0.0 -D
 
 ## TODO
 * Polish up hugo-2-stork utility
-* Fix up stork errors on detail page.
 * Figure out some way to shim / reduce initial load on mobile for 3D view.
 * Need an image for the model for sculptures.
 * Script up indexer (and CDN uploading)
@@ -32,6 +31,7 @@ hugo server --buildFuture --bind 0.0.0.0 -D
 * Implement filtering by people.
 * Add library card generator.
 
+* ~~Fix up stork errors on detail page.~~
 * ~~A nicer way of automating CSS workflows.~~
 * ~~fixup app color thing used by safari.~~
 * ~~Add a contributors page.~~

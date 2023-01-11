@@ -19,7 +19,14 @@ Source:
 	<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
 	<!-- Use it like any other HTML element -->
-	<model-viewer alt="{{ .Description }}" src="{{ index (.Params.model) 0}}" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+	{{ if .Site.IsServer }}
+	{{ $model :=  path.Split (index (.Params.model) 0) }}
+	<model-viewer alt="{{ .Description }}" src="/CDN/{{ $model.File }}" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+	{{ else }}
+	<model-viewer alt="{{ .Description }}" src="{{ index (.Params.model) 0 }}" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+	{{ end }}
+
+
 
 
 <div class="card-content">{{- .Content -}}</div>
