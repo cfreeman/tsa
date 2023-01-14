@@ -8,7 +8,7 @@
     "Date": "{{ .Date }}",
     "Videos": {{ jsonify .Params.Videos }},
     "Images": {{ jsonify .Params.Images }},
-    "URL": "{{ .URL }}"
+    "URL": "{{ .Permalink }}"
     }
   {{end}}
   ]

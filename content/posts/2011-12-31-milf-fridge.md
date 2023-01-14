@@ -13,7 +13,7 @@ model:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2011-milf-fridge.glb
 - https://poly.cam/capture/E15D4040-5800-4D11-AD4B-29E418081FFB
 
-preview:
+images:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2011-milf-fridge.webp
 
 people:
