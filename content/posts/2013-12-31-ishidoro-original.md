@@ -13,6 +13,9 @@ model:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2013-ishidoro-original.glb
 - https://poly.cam/capture/04047E11-C3D7-4DA2-B64F-DB430D611527
 
+preview:
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2013-ishidoro-original.webp
+
 people:
 - Tom Sachs
 

@@ -21,9 +21,11 @@ Source:
 	<!-- Use it like any other HTML element -->
 	{{ if .Site.IsServer }}
 	{{ $model :=  path.Split (index (.Params.model) 0) }}
-	<model-viewer alt="{{ .Description }}" src="/CDN/{{ $model.File }}" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+	{{ $preview := path.Split (index (.Params.preview) 0)}}
+	<model-viewer alt="{{ .Description }}" src="/CDN/{{ $model.File }}" poster="/CDN/{{ $preview.File }}" shadow-intensity="1" camera-controls
+	touch-action="pan-y"></model-viewer>
 	{{ else }}
-	<model-viewer alt="{{ .Description }}" src="{{ index (.Params.model) 0 }}" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+	<model-viewer alt="{{ .Description }}" src="{{ index (.Params.model) 0 }}" poster="{{ index (.Params.model) 0 }}" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
 	{{ end }}
 
 
