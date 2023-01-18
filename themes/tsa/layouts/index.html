@@ -36,10 +36,13 @@
     }
 
     async function main() {
+      {{ $index := (resources.Get "index.st" | fingerprint).Permalink }}
+
       {{ if .Site.IsServer }}
-      stork.register("tsa", "/CDN/index.1.st");
+      stork.register("tsa", {{ $index }});
       {{ else }}
-      stork.register("tsa", "https://tsa.nyc3.cdn.digitaloceanspaces.com/index.1.st");
+      {{ $indexURL := path.Split $index }}
+      stork.register("tsa", "https://tsa.nyc3.cdn.digitaloceanspaces.com/{{ $indexURL.File }}");
       {{ end }}
 
       var card = await fetch("/posts/index.json").then( resp => {

@@ -19,10 +19,8 @@ hugo server --buildFuture --bind 0.0.0.0 -D
 
 
 ## TODO
-* Polish up hugo-2-stork utility
 * Figure out some way to shim / reduce initial load on mobile for 3D view.
-* Script up indexer (and CDN uploading)
-	* Look into compressing the index.
+* Look into compressing the search index.
 * Add quotes to metadata block and pull noteworthy tom sachs quotes out of archived articles.
 * Update office hour template to render show notes where available.
 * Update template to render the list of people in the metadata.
@@ -30,6 +28,12 @@ hugo server --buildFuture --bind 0.0.0.0 -D
 * Implement filtering by people.
 * Add library card generator.
 
+* ~~Polish up hugo-2-stork utility~~
+* ~~Move dev CDN to be an asset that is only used during development.~~
+* ~~Script up indexer (and CDN uploading)~~
+	* ~~Configure s3cmd (.s3cfg) via a volume.~~
+	* ~~Update Dockerfile to use s3cmd to upload index to CDN.~~
+	* ~~Update Dockerfile to delete local index in image.~~
 * ~~Need an image for the model for sculptures.~~
 * ~~Fix up stork errors on detail page.~~
 * ~~A nicer way of automating CSS workflows.~~
