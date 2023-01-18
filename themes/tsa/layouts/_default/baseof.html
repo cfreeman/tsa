@@ -16,13 +16,13 @@
 <meta name="description" content="{{ .Params.description }}">
 {{ end }}
 
-<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
-<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
-<link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
-<link rel="stylesheet" href="https://files.stork-search.net/releases/v1.5.0/basic.css" />
-
 {{ $style := resources.Get "main.css" | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $style.Permalink }}">
+{{ $pure:= resources.Get "pure-min.css" | minify }}
+{{ $grid:= resources.Get "grids-responsive-min.css" | minify }}
+{{ $plyr:= resources.Get "plyr.css" | minify}}
+{{ $stork:= resources.Get "basic.css" | minify}}
+
+<style>{{ $pure.Content | safeCSS }}{{ $grid.Content | safeCSS }}{{ $style.Content | safeCSS }}{{ $plyr.Content | safeCSS }}{{ $stork.Content | safeCSS }}</style>
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
