@@ -8,6 +8,12 @@ type: office-hours
 
 description: In this nerds only whiteboard session, Sachs and Steltzner explore what it would take to send humanity to the asteroid Vesta and how they would take a rock sample in an extremely low gravity environment.
 
+nuggets:
+- With the food, yes. With astronauts holy shit. Yes,  the soft cranky delicate human beings I'm, you know I spend most of my time with robots and they just don't give a shit. Yeah exactly robots are merciless.
+- Yeah, and so putting 'em in a big huge. Inside a bubble of water, it needs to be a lot of water. They're still going to get a high amount of radiation exposure, just. Even you know you need 10 metres or so of of water 10 metres.
+- I do ceramics to alleviate my stress of my day job. Being world famous artist, it's very stressful. There's a lot of details to maintain and stuff so drawing.
+- What is very interesting to me, much more interesting to me. Are these design questions where you've got... You're optimizing and you're optimizing on on sparse data. Sparse information. And you're making judgment calls and your risk balancing and your risk bouncing against known unknowns, an unknown unknowns, and you're trying to figure out what the right right thing to do is.
+
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-12-28-adam-steltzner-whiteboard.mp4
 
