@@ -8,6 +8,14 @@ type: tour
 
 description: Tom Sachs provides a quick overview of The NASA Archives by Pierce Bizony, Andrew Chaikin and Roger Launius. He concludes with a tour of the space library in his workshop
 
+nuggets:
+- And this is a camera and he really wanted to put bait. Bacon on it to see if an if creatures would come but they they kind of voted him out. But that's hot Carl right there. Thanks for trying Carl.
+- This is Michael Collins wrote this kids book. I swear I know it maybe looks like I had something to do with it. I didn’t.
+- I would definitely get this um NASA graphics standard manual, which has got everything you need to making your stationary or pantone color chips.
+- This is the other best book, the only other book worth reading about the moon mission is Norman Mailer’s of a fire on the moon.
+- This is mandatory, I have three copies of it. Best book, the only credible book on um space suits. By Nicholas De Monchaux called fashioning Apollo.
+- Get the Penguin book that Andrew Chaikin wrote.
+
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2019-02-22-space-books.mp4
 

@@ -8,6 +8,12 @@ type: office-hours
 
 description: Tom Sachs hosts a question and answer session on Instagram live from his basement workshop.
 
+nuggets:
+- I don't make it for museum. I don't make it for an art collector. It starts with us and that's how you imbue something with authentic values.
+- I've got six jobs which include team management and accounting and industrial design and cleaning the toilet. We all. Sometimes the boss must shovel shit in Louisiana and that is part of the deal.
+- Human beings dig ditches and build bridges. That's what we do best.
+- Do what you love. Henry. Because could you imagine the misery of making fine art and being successful at it an then? Um? But you hated it and an you got commercial success.
+
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-21-office-hours-q-and-a.mp4
 

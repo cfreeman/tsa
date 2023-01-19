@@ -8,6 +8,9 @@ type: tour
 
 description: Tom Sachs gives a tour of Charlotte Perriand's work at Venus Over Manhattan Gallery.
 
+nuggets:
+- Charlotte Perriand and she was the man behind the man known as Le Corbusier.
+
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2018-11-27-charlotte-perriand-tour.mp4
 

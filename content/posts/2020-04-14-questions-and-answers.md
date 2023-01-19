@@ -10,6 +10,8 @@ description: Tom Sachs hosts a question and answer session on Instagram live fro
 
 nuggets:
 - I could never make something as perfect as an iPhone, but Apple could never make anything something as flawed as what I do, so the advantage of the artist is showing that he or she was there.
+- And one day of the year. And I'm not gonna tell you what day of the year if you ask me to do the welding job. I will take that job so that I can stay connected to my roots because I'm so forever grateful for the privilege to do what I love.
+- That's with Charles Darwin described mutations as things that happened in the genetic code by accident that helped the species reproduce. So sometimes something that was a mistake turns into the thing that that leads you to the success of the next thing.
 
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-14-office-hours-q-and-a.mp4

@@ -8,6 +8,11 @@ type: tour
 
 description: Tom Sachs gives a tour of Brâncuși and Duchamp's work displayed at Paul Kasmin Gallery.
 
+nuggets:
+- Anyway, these guys were pals. This guy on the right, Duchamp, who is kind of like arguably the father of conceptual art, was also defacto art dealer to Brâncuși.
+- The thing that's important about Brâncuși is that he was the first artist to make abstract sculpture.
+
+
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2018-11-26-brancusi-and-duchamp-tour.mp4
 

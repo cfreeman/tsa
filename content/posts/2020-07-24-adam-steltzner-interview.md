@@ -8,6 +8,11 @@ type: interview
 
 description: In this inteview Sachs and Steltzner speak about overlaps between engineering and art. It includes things like how to evaluate ideas and how a project should be born with some baby fat.
 
+nuggets:
+- This concept of when we're designing spacecraft and Space Flight systems, we always want to start with a lot of babyfat, like human babies have. Like most most babies have, essentially for the same purpose. Right, that when trouble shows up when we're wrong about a feature of our design, we have something to consume, some resource to consume so you don't start with your highest strength, lightest weight, most critical elements because you'll have a hard time improving your design.
+- There's a whole art and craft to getting people to believe in your vision when it's an. It's especially difficult when it's not been done before because you can't show them the example.
+- but I really want you to have done the thinking about the three central arguments against your idea. And when you pull. The idea away from yourself and really sort of look at it in three dimensions. It allows you sometimes to see. The flaws in the words in it.
+
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-07-24-adam-steltzner-interview.mp4
 

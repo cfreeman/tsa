@@ -8,6 +8,13 @@ type: tour
 
 description: Sachs leads a tour of his show Handmade Paintings at Acquavella Galleries in New York
 
+nuggets:
+- This canvas is painted. With the yellow edge, sort of. In a homage acknowledgement recognition of Newman Barnett's Yellow Edge of 1968.
+- when you're making Ice I would recommend Hoshizaki Cube star. That's what we use in the space program for making ice for the astronauts Liquid cooling garments.
+- And of course the Wu Tang Clan was and still is in many ways the clan. A group of individuals to work together and form like Voltron to produce amazing sound.
+- This is me the Big Eagle with the chain around it's ankle. This is Oksana  who I've been painting with for over 20 years. Who's free to go? Whenever she wants. But stays because we work so well together. Yeah, This Is us.
+
+
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-12-01-handmade-paintings.mp4
 

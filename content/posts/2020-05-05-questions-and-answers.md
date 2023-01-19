@@ -1,6 +1,6 @@
 ---
 title: Q&A 2020-05-05
-date: 2020-05-05T+00:00
+date: 2020-05-05T00:00:00+00:00
 draft: false
 language: en
 publisher: Tom Sachs
@@ -8,11 +8,18 @@ type: office-hours
 
 description: Tom Sachs hosts a question and answer session on Instagram live from his basement workshop.
 
+nuggets:
+- I would encourage you all to get next skin, which is like a crazy glue for skin. It's really good. Crazy glue will work, but next skins optimized for it and invented during Vietnam for field sutures.
+- A lot of those things you cannot control. But the thing that you can control is how you take care of your body. Is scheduling enough sleep get enough sleep? Exercise. Take enough days off.
+- Everything has value. I do not make a distinction. You know a sneaker that we make with Nike is a sculpture.
+- Have you ever made something you didn't like and still send it out? Never. Don't do that. Burn that shit or put it in your Indiana Jones warehouse if you're not sure if you want to throw it out, but do not send it out.
+- It ain't bragging if you can back it up. Do the work. Love the work and they cannot take that. Away from you.
+
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-05-05-office-hours-q-and-a.mp4
 
 images:
-- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-05-05-office-hours-q-and-a-notes.jpg
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-05-05-office-hours-q-and-a-notes.webp
 
 people:
 - Tom Sachs

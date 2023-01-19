@@ -8,6 +8,13 @@ type: office-hours
 
 description: Tom Sachs hosts an office hours that questions relating to the ISRU dome challenge
 
+nuggets:
+- If you are an overnight success, what do you got to live for? Is only through. The failures that we learned.
+- We're all doing the same work. We're all going MIT. Even those of us who did not test well enough to get in.
+- I kind of in a way think that the Internet is the whole Earth catalog. Maybe Steve Jobs said that. The. Whole Earth catalog was his inspiration or what he thought the Internet should be, so I don't know, but yes. OK.
+- Like again, we like to quote the great Steve Jobs. I don't do market research. I don't build what clients want. I build them. What I think they need so you make the art for you for your friends, for your family and your community.
+- My favorite brand of broom is sweep dreams, handmade in Thailand. I bought my. Last one at Dean and DeLuca Oliver Sholom. And this is a handmade flat broom.
+
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-08-11-office-hours-q-and-a.mp4
 

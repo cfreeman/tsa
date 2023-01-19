@@ -6,17 +6,24 @@ language: en
 publisher: Tom Sachs
 type: office-hours
 
-description: Tom Sachs hosts a art history lesson on Sol Lewitt session from his basement workshop on Instagram Live.
+description: Tom Sachs hosts an art history lesson on Sol Lewitt session from his basement workshop.
+
+nuggets:
+- This is like the The Brain Trust from Europe came to America and the United States had achieved its ultimate success in industrial might.
+- And then you're in Los Angeles, CA, where artists like Bruce Nauman and John Baldassarri struggling with. How do you make art at the end of western civilization? You have to jump into the ocean so they started making rules under which they were going to make art
+- There's a great book about this. I encourage you to get it. It's called the dematerialization six years, the dematerialization of art by Lucy Lippard.
+- And it's also true that banal ideas cannot be rescued by beautiful execution.
+- The whole point is that it's it's human, but. At the end of the week or month or however long it took you to do this wall drawing, you have an expression of your work and it's and that information you know whether you call beautiful or not is it's information and you can't like deny that it's art. It's art is art, good, bad, or indifferent. You can't stop reality from being real. That was Marcel Duchamp and Flavor Flav in one sentence.
 
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt.mp4
 
 images:
-- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes1.jpg
-- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes2.jpg
-- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes3.jpg
-- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes4.jpg
-- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes5.jpg
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes1.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes2.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes3.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes4.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-04-24-office-hours-sol-lewitt-notes5.webp
 
 people:
 - Tom Sachs

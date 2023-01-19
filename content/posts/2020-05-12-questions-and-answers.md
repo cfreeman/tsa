@@ -8,11 +8,18 @@ type: office-hours
 
 description: Tom Sachs hosts a question and answer session on Instagram live from his basement workshop.
 
+nuggets:
+- Have you ever had trouble separating your practice with your personal life? No, they are one. It's the key.
+- How do you schedule sex? I use iCal.
+- Resistance is futile Elliot. Don't resist, give in. Finish. What you started but have several things going at once.
+- Materials when do you draw the line between collecting and hoarding? My answer I wrote it down before. Neither. Do neither neither neither collect nor hoard. Build your library. Make it a considered act. Hoarding is a sickness.
+- Yes, if you are interested in the spiritual aspects of this office hour immediately stop following and go listen to Alan Watts. He's 1000 times better than me in that amazing movie her the sort of brilliant writer guy.
+
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-05-12-office-hours-q-and-a.mp4
 
 images:
-- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-05-12-office-hours-q-and-a-notes.jpg
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-05-12-office-hours-q-and-a-notes.webp
 
 people:
 - Tom Sachs
@@ -73,7 +80,7 @@ people:
 
 {{< jump "00:24:10">}} Tom Sachs: Um from gab dot riela the constructivists and data movement influenced your work. I referenced Marcel Duchamp Fountain in 1917 and how we wanted the object to be seen as industrial beauty instead of object. If use. Yeah, let's dig into Marcel Duchamp more. That's your research over the weekend next week. We have a special guest who is going to talk about Manet and but Marcel Duchamp's crucial learn about it. Yeah, he is the guy who did the urinal as sculpture to try and take away the utility of it and just get into the abstract shape of it that was in that work. What he was doing. But I think that constructivism and data is very important, and if you think about art movements and groups. That those are among my biggest influences. And if we if there's interest, we can dig into that.
 
-{{< jump "00:25:02">}} Tom Sachs: Um and then. But this leads to the next question. Do you see resemblance between Bauhaus and the ethics in the studio? You know we're teaching hospital.I teach other kids in the studio and they in turn teach. Teach this kid. We help each other. Um, we're all in the same place 'cause we share ethics. That's what kind of makes us a team. And Bauhaus is amazing. Group of individuals in Germany right before World War Two and a lot of 'em. A lot of leaders left to go to places like New York and Chicago and New Haven and build communities there. And you know, maybe the most some of the most famous ones were people like Mies Van de Rohe or like Marcel Broyer. Or policy Kandinsky or Eileen Gray. These are real heroes, mostly in architecture, but in painting and all sorts of graphic design. Herbert Bayer trusted Albers. Yeah, these are. These are great guys and I think about the studio and Bauhaus terms it also. I would look at the Eames studio as as a model a little bit closer to home, a little bit more. Even even more diverse in terms of painting, sculpture, filmmaking, industrial design, all kinds of stuff.
+{{< jump "00:25:02">}} Tom Sachs: Um and then. But this leads to the next question. Do you see resemblance between Bauhaus and the ethics in the studio? You know we're teaching hospital. I teach other kids in the studio and they in turn teach. Teach this kid. We help each other. Um, we're all in the same place 'cause we share ethics. That's what kind of makes us a team. And Bauhaus is amazing. Group of individuals in Germany right before World War Two and a lot of 'em. A lot of leaders left to go to places like New York and Chicago and New Haven and build communities there. And you know, maybe the most some of the most famous ones were people like Mies Van de Rohe or like Marcel Broyer. Or policy Kandinsky or Eileen Gray. These are real heroes, mostly in architecture, but in painting and all sorts of graphic design. Herbert Bayer trusted Albers. Yeah, these are. These are great guys and I think about the studio and Bauhaus terms it also. I would look at the Eames studio as as a model a little bit closer to home, a little bit more. Even even more diverse in terms of painting, sculpture, filmmaking, industrial design, all kinds of stuff.
 
 {{< jump "00:26:25">}} Tom Sachs: Can an office worker implement 10 bullets? Absolutely, there is no difference from at Dillon_3K. We're all the same. We're all artists, regardless if we make sculpture or work at a hospital, you can apply be on time and and be on time, which means get enough rest and get dieten, get exercised and take care of yourself. Can do all that.
 

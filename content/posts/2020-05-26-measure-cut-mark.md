@@ -8,6 +8,11 @@ type: office-hours
 
 description: Tom Sachs hosts an office hours that covers measuring, cutting and marking.
 
+nuggets:
+- My dad's father invented braces. He did Orthodontia in the basement.
+- I don't store things in my library that I could buy. Like on Amazon or eBay, I try and just get things that I know I'm going to use immediately.
+- You cut right down the middle. Let the blade do the work. Let it cut through. Don’t use a lot of force. Just do a few simple passes. You won’t cut yourself.
+
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-05-26-measure-cut-mark.mp4
 
