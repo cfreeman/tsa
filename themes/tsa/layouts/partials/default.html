@@ -50,5 +50,21 @@
   </div>
   {{ end }}
 
-  <div class="card-content">{{ .Content | safeHTML }}</div>
+
+
+  <div class="pure-g card-content">
+    <div class="pure-u-1-1">
+    <p class="submit"><a href="/submit/submit">submit</a></p>
+      {{ if .Params.nuggets }}
+      <h1>NUGGETS</h1>
+      <ul class="nuggets">
+        {{ range $nug_index, $nug := .Params.nuggets }}
+        <li>“{{ $nug }}”</li>
+        {{ end }}
+      </ul>
+      {{ end }}
+
+    <h1>TRANSCRIPT</h1>
+    {{ .Content | safeHTML }}
+  </div></div>
 
