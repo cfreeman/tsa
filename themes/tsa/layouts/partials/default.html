@@ -64,6 +64,17 @@
       </ul>
       {{ end }}
 
+      {{ if .Params.images }}
+      <h1>IMAGES</h1>
+      <div class="pure-g">
+        {{ range $img_index, $img := .Params.images }}
+      <div class="pure-u-1-5"><a id="img-uri" href="{{ $img }}"><img class="pure-img" src="{{ $img }}" alt="note {{ $img_index }}"></a></div>
+        {{ end }}
+        <p id="title"></p>
+        <p id="description"></p>
+      </div>
+      {{ end }}
+
     <h1>TRANSCRIPT</h1>
     {{ .Content | safeHTML }}
   </div></div>
