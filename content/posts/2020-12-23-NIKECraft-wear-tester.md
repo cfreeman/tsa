@@ -9,8 +9,9 @@ type: tour
 description: In this video the Sachs studio introduces the wear tester program for the Mars Yard 2.5 shoes.
 
 videos:
-- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-12-23-NIKECraft-wear-tester.mp4
 - https://youtube.com/watch?v=WdNplVMF-ts
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-12-23-NIKECraft-wear-tester.mp4
+
 
 people:
 - Tom Sachs

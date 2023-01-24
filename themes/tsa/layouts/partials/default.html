@@ -33,7 +33,44 @@
   <div class="fluidMedia">
     {{ $id := index (last 1 (split (index (last 1 (split $url "/")) 0) "=")) 0 }}
     <script type="module" src="/dist/js/lite-youtube.js"></script>
-    <lite-youtube videoid="{{ $id }}"></lite-youtube>
+
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <lite-youtube id="player" videoid="{{ $id }}" params="enablejsapi=1"></lite-youtube>
+    <script>
+      var player = null;
+
+      function YTPlayer() {
+        var button = document.querySelector('#player').shadowRoot.querySelector('#playButton');
+        var style = window.getComputedStyle(button);
+        if (style.display !== 'none') {
+          button.click();
+        }
+
+        return new Promise((resolve, reject) => {
+          var player = new YT.Player(document.querySelector('#player')
+                                             .shadowRoot.querySelector('iframe'),
+                                     {events:{onReady: onPlayerReady,},});
+
+          function onPlayerReady() {
+            resolve(player);
+          }
+        });
+      }
+
+      async function jump(timestamp) {
+        //console.log(LiteYTEmbed);
+
+        if (!player) {
+          player = await YTPlayer();
+        }
+
+        var a = timestamp.split(':');
+        var s = (+a[0]) * 60 * 60 + (+a[1]) * 60 + (+a[2]);
+
+        player.seekTo(s, true);
+        window.scrollTo(0, 0);
+      }
+    </script>
   </div>
   {{ end }}
 
@@ -46,7 +83,16 @@
       <source src="{{ $stem }}.webm" type="video/webm" />
     </video>
     <script src="https://cdn.plyr.io/3.7.3/plyr.polyfilled.js"></script>
-    <script>Plyr.setup("#player");</script>
+    <script>
+      Plyr.setup("#player");
+
+      async function jump(timestamp) {
+        var a = timestamp.split(':');
+        var s = (+a[0]) * 60 * 60 + (+a[1]) * 60 + (+a[2]);
+        new Plyr('#player').currentTime = s;
+        window.scrollTo(0, 0);
+      }
+    </script>
   </div>
   {{ end }}
 
