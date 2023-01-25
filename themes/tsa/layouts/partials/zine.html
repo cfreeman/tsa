@@ -1,0 +1,45 @@
+<div class="card">
+  <h1 class="card-header">{{ .Title }}</h1>
+  <p class="card-date">
+    {{ .Params.Publisher }}.
+    <time {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>{{ .Date.Format "January 2, 2006" }}</time>
+    ({{ .Type }})
+  </p>
+
+<p class="card-source">
+Source:
+{{ range $elem_index, $elem_val := .Params.sources }}
+  <a href="{{ $elem_val }}">{{ $elem_index }}</a>
+{{ end }}
+</p>
+</div>
+
+{{ if .Params.videos }}
+  {{ partial "native-video-plyr.html" . }}
+{{ else if and (isset .Params "pages") (not (isset .Params "videos"))}}
+  {{ partial "zine-page-viewer.html" . }}
+{{ end }}
+
+<div class="pure-g card-content">
+  <div class="pure-u-1-1">
+    <p class="submit"><a href="/submit/submit">submit</a></p>
+    {{ if .Params.nuggets }}
+    <h1>NUGGETS</h1>
+    <ul class="nuggets">
+      {{ range $nug_index, $nug := .Params.nuggets }}
+      <li>“{{ $nug }}”</li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</div>
+
+{{ if and (isset .Params "pages") (isset .Params "videos") }}
+  {{ partial "zine-page-viewer.html" . }}
+{{ end }}
+
+<div class="pure-g card-content">
+  <div class="pure-u-1-1">
+    <h1>TRANSCRIPT</h1>
+    {{ .Content | safeHTML }}
+</div></div>

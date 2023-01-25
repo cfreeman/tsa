@@ -21,12 +21,13 @@ hugo server --buildFuture --bind 0.0.0.0 -D
 ## TODO
 * Figure out some way to shim / reduce initial load on mobile for 3D view.
 * Look into compressing the search index.
-* pull noteworthy tom sachs quotes out of archived material.
 * Update template to render the list of people in the metadata.
 * Implement filtering by type (office-hours, tour, article, interview, lecture, etc.)
 * Implement filtering by people.
 * Add library card generator.
+* Work out some way to automatically prune search indexes from the CDN.
 
+* ~~pull noteworthy tom sachs quotes out of archived material.~~
 * ~~Add quotes to metadata block~~
 * ~~Update office hour template to render show notes where available.~~
 * ~~Polish up hugo-2-stork utility~~

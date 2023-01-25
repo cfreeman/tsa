@@ -3,10 +3,44 @@ title: PLYWOOD & RESIN
 date: 2021-04-19T00:00:00+00:00
 draft: false
 language: en
-publisher: Tom Sachs
+publisher: i-D Magazine
 type: zine
 
 description: Tom Sachs demonstrates how to create a copy of the plywood and resin zine.
+
+nuggets:
+- There is hardly anything in the world that someone cannot make a little worse and sell a little cheaper.
+- If you make shitty things I'm coming for you.
+
+sources:
+- https://issuu.com/thaddaeusropac/docs/2021-tom_sachs-i-d_summer-low_res
+
+images:
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p1.webp
+
+pages:
+- 2021-04-19-plywood-and-resin-p1.webp
+- 2021-04-19-plywood-and-resin-p2.webp
+- 2021-04-19-plywood-and-resin-p3.webp
+- 2021-04-19-plywood-and-resin-p4.webp
+- 2021-04-19-plywood-and-resin-p5.webp
+- 2021-04-19-plywood-and-resin-p6.webp
+- 2021-04-19-plywood-and-resin-p7.webp
+- 2021-04-19-plywood-and-resin-p8.webp
+- 2021-04-19-plywood-and-resin-p9.webp
+- 2021-04-19-plywood-and-resin-p10.webp
+- 2021-04-19-plywood-and-resin-p11.webp
+- 2021-04-19-plywood-and-resin-p12.webp
+- 2021-04-19-plywood-and-resin-p13.webp
+- 2021-04-19-plywood-and-resin-p14.webp
+- 2021-04-19-plywood-and-resin-p15.webp
+- 2021-04-19-plywood-and-resin-p16.webp
+- 2021-04-19-plywood-and-resin-p17.webp
+- 2021-04-19-plywood-and-resin-p18.webp
+- 2021-04-19-plywood-and-resin-p19.webp
+- 2021-04-19-plywood-and-resin-p20.webp
+- 2021-04-19-plywood-and-resin-p21.webp
+- 2021-04-19-plywood-and-resin-p22.webp
 
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-07-08-iD-Zine.mp4
@@ -15,14 +49,6 @@ people:
 - Tom Sachs
 
 ---
-
-## PAGES
-
-<a href="https://issuu.com/thaddaeusropac/docs/2021-tom_sachs-i-d_summer-low_res"><img class="pure-img" src="https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin.webp" alt="The first double page spread of plywood and resin" width="400" height="260"></a>
-
-The pages for Plywood & Resin from i-D magazine are [available on issuu.](https://issuu.com/thaddaeusropac/docs/2021-tom_sachs-i-d_summer-low_res)
-
-## TRANSCRIPT
 
 {{< jump "00:00:00">}} Tom Sachs: iD magazine June 2021. Check it out. Look we got a whole spread and were going to make a zine out of this. Here goes.
 

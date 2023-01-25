@@ -1,5 +1,5 @@
 ---
-title: Tom Sachs and Adam Savage
+title: TOM SACHS AND ADAM SAVAGE
 date: 2013-09-25T00:00:00+00:00
 draft: false
 language: en
@@ -14,7 +14,6 @@ nuggets:
 - I still believe in making things and being able to fix things there's not just a satisfaction about it but there's also respect for the things in your life
 -  I'll ask him something technical how did you deal with the condensation in the helmets and Buzz said oh yeah it was a terrible it was a pain in the neck it was it was it was it was difficult we had condensation
 - yeah but you know if you do it for two years it's an interest five years to Hobby when you dedicate your entire life to it the little holes that you have are too small that they won't be able to fuck with you.
-
 
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2013-09-25-tom-sachs-and-adam-savage.mp4

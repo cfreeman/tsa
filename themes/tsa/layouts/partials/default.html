@@ -76,27 +76,8 @@
 
 
   {{ if eq (substr $url 8 3) "tsa" }}
-  <div class="container">
-    {{ $stem := strings.TrimRight ".mp4" $url }}
-    <video id="player" width="100%" height="360" playsinline controls data-plyr-config='{ "invertTime":false }' data-poster="{{ $stem }}.webp">
-      <source src="{{ $stem }}.mp4" type="video/mp4" />
-      <source src="{{ $stem }}.webm" type="video/webm" />
-    </video>
-    <script src="https://cdn.plyr.io/3.7.3/plyr.polyfilled.js"></script>
-    <script>
-      Plyr.setup("#player");
-
-      async function jump(timestamp) {
-        var a = timestamp.split(':');
-        var s = (+a[0]) * 60 * 60 + (+a[1]) * 60 + (+a[2]);
-        new Plyr('#player').currentTime = s;
-        window.scrollTo(0, 0);
-      }
-    </script>
-  </div>
+    {{ partial "native-video-plyr.html" . }}
   {{ end }}
-
-
 
   <div class="pure-g card-content">
     <div class="pure-u-1-1">

@@ -1,0 +1,49 @@
+<div class="pure-g card-content zine">
+  <div class="pure-u-1-1">
+    {{ range $img_index, $img := .Params.pages }}
+    <a id="page{{ $img_index }}" class="page" href="https://tsa.nyc3.cdn.digitaloceanspaces.com/{{ $img }}"><img class="pure-img" src="https://tsa.nyc3.cdn.digitaloceanspaces.com/{{ $img }}" alt="page {{ $img_index }}" loading="lazy"></a>
+    {{ end }}
+
+    <p class="page-nav">
+    <button id="f" class="button-xsmall pure-button" onclick="page = showPage(page, 1)"><< First</button>
+    <button id="p" class="button-xsmall pure-button" onclick="page = showPage(page, page-1);">< Previous</button>
+    <button id="n" class="button-xsmall pure-button" onclick="page = showPage(page, page+1);">Next ></button>
+    <button id="l" class="button-xsmall pure-button" onclick="page = showLast(page);">Last >></button>
+    </p>
+  </div>
+</div>
+
+<script>
+  let page = 1;
+  showPage(page, page);
+
+  function showLast(c) {
+    let pages = document.getElementsByClassName("page");
+    return showPage(c, pages.length);
+  }
+
+  function showPage(c, n) {
+    let pages = document.getElementsByClassName("page");
+
+    if (n === 1) {
+      document.getElementById("f").disabled = true;
+      document.getElementById("p").disabled = true;
+    } else if (n > 1) {
+      document.getElementById("f").disabled = false;
+      document.getElementById("p").disabled = false;
+    }
+
+    if (n === pages.length) {
+      document.getElementById("n").disabled = true;
+      document.getElementById("l").disabled = true;
+    } else if (n < pages.length) {
+      document.getElementById("n").disabled = false;
+      document.getElementById("l").disabled = false;
+    }
+
+    pages[c-1].style.display = "none"
+    pages[n-1].style.display = "block";
+
+    return n;
+  }
+</script>

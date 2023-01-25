@@ -54,10 +54,11 @@
         console.log("ERR :-S", err);
       });
 
-      if (card.Videos) {
-        document.getElementById("image").src = card.Videos[0].replace(/\.[^/.]+$/, ".webp");
-      } else if (card.Images) {
+      if (card.Images) {
         document.getElementById("image").src = card.Images[0];
+      } else if (card.Videos) {
+        var cdn = card.Videos.filter(video => video.includes("tsa.nyc3.cdn"));
+        document.getElementById("image").src = cdn[0].replace(/\.[^/.]+$/, ".webp");
       }
       document.getElementById("image").alt = "Screenshot from "+card.Title;
 

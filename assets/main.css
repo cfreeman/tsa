@@ -146,6 +146,19 @@ a:visited {
 	line-height: 1.25em;
 }
 
+.page {
+	display: none;
+}
+
+.page-nav .pure-button {
+	background-color: rgb(174, 123, 44);
+	color: rgb(233, 224, 210);
+}
+
+.page-nav {
+	text-align: center;
+}
+
 .nuggets li + li {
 	margin-top: 30px;
 }
@@ -162,7 +175,14 @@ a:visited {
 	margin-top: 1.25em;
 }
 
+.zine {
+	padding: 0px !important;
+}
 
+.page-nav {
+	margin-top: 23px;
+	margin-bottom: 23px;
+}
 
 
 .fluidMedia {

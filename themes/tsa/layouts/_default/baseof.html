@@ -31,14 +31,6 @@
 
 </head>
 <body>
-<script>
-  function jump(timestamp) {
-    var a = timestamp.split(':');
-    var s = (+a[0]) * 60 * 60 + (+a[1]) * 60 + (+a[2]);
-    new Plyr('#player').currentTime = s;
-    window.scrollTo(0, 0);
-  }
-</script>
 <div id="layout">
   <header>
     <div>
