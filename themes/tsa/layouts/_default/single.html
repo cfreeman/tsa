@@ -5,6 +5,9 @@
   {{ else if (eq .Type "zine") }}
     {{- partial "zine.html" . -}}
 
+  {{ else if (eq .Type "essay") }}
+    {{- partial "zine.html" . -}}
+
   {{ else if (eq .Type "sculpture") }}
     {{- partial "sculpture.html" . -}}
 
