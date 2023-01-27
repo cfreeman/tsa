@@ -24,9 +24,19 @@ p + h2 {
 }
 
 p {
+	margin-block-start: 1em;
+	margin-block-end: 1em;
 	margin-top: 9px;
 	margin-bottom: 17px;
-	line-height: 1.25em;
+	line-height: 1.6em;
+}
+
+p + p {
+	margin-top: 2em;
+}
+
+h1 + p {
+	margin-top: 0.75em;
 }
 
 model-viewer {
@@ -160,11 +170,16 @@ a:visited {
 }
 
 .nuggets li + li {
-	margin-top: 30px;
+	margin-top: 1.25em;
+}
+
+h1 + .nuggets {
+	margin-top: 1em;
+	margin-bottom: 4em;
 }
 
 .card-content ul + h1 {
-	margin-top: 1.25em;
+	margin-top: 2.25em;
 }
 
 .card-content h1 + .pure-g {
@@ -179,9 +194,24 @@ a:visited {
 	padding: 0px !important;
 }
 
-.page-nav {
-	margin-top: 23px;
+.zine div {
+	display:grid;
+	place-items: center;
+	background-color: rgb(0, 0, 0);
+}
+
+.zine div + h1 {
 	margin-bottom: 23px;
+}
+
+.zine img {
+	height: 380px;
+	max-height: 380px;
+}
+
+.page-nav {
+	margin-top: 4px;
+	margin-bottom: 4px;
 }
 
 

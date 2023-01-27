@@ -19,6 +19,7 @@ hugo server --buildFuture --bind 0.0.0.0 -D
 
 
 ## TODO
+* Standardise all resource links to not need the absolute path to the CDN.
 * Figure out some way to shim / reduce initial load on mobile for 3D view.
 * Look into compressing the search index.
 * Update template to render the list of people in the metadata.
