@@ -16,9 +16,7 @@ Source:
 <p class="card-description">{{- .Description -}}</p>
 </div>
 
-{{ if .Params.videos }}
-  {{ partial "native-video-plyr.html" . }}
-{{ else if and (isset .Params "pages") (not (isset .Params "videos"))}}
+{{ if or (isset .Params "pages") ((isset .Params "videos"))}}
   {{ partial "zine-page-viewer.html" . }}
 {{ end }}
 
@@ -37,11 +35,15 @@ Source:
 </div>
 
 {{ if and (isset .Params "pages") (isset .Params "videos") }}
-  {{ partial "zine-page-viewer.html" . }}
+  {{ partial "native-video-plyr.html" . }}
 {{ end }}
 
 <div class="pure-g card-content">
   <div class="pure-u-1-1">
+    {{ if and (isset .Params "pages") (isset .Params "videos") }}
+    <p class="submit">&nbsp;</p>
+    {{ end }}
+
     <h1>TRANSCRIPT</h1>
     {{ .Content | safeHTML }}
 </div></div>
