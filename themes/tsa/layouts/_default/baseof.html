@@ -22,7 +22,7 @@
 {{ $plyr:= resources.Get "plyr.css" | minify}}
 {{ $stork:= resources.Get "basic.css" | minify}}
 
-<style>:root{--plyr-color-main: rgb(108, 75, 25);}{{ $pure.Content | safeCSS }}{{ $grid.Content | safeCSS }}{{ $style.Content | safeCSS }}{{ $plyr.Content | safeCSS }}{{ $stork.Content | safeCSS }}</style>
+<style>{{ $pure.Content | safeCSS }}{{ $grid.Content | safeCSS }}{{ $style.Content | safeCSS }}{{ $plyr.Content | safeCSS }}{{ $stork.Content | safeCSS }}</style>
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
