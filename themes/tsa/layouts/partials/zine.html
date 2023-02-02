@@ -25,11 +25,11 @@ Source:
     <p class="submit"><a href="/submit/submit">submit</a></p>
     {{ if .Params.nuggets }}
     <h1>NUGGETS</h1>
-    <ul class="nuggets">
+
       {{ range $nug_index, $nug := .Params.nuggets }}
-      <li>“{{ $nug }}”</li>
+      <blockquote class="nuggets">“{{ $nug }}”</blockquote>
       {{ end }}
-    </ul>
+
     {{ end }}
   </div>
 </div>

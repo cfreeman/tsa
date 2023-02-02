@@ -6,7 +6,7 @@ language: en
 publisher: Thomas Crow
 type: essay
 
-description: An Essay included in the Spaceships hardcover book.
+description: An essay included in the front of the book published on the occasion of Spaceships.
 
 sources:
 - https://store.tomsachs.com/collections/frontpage/products/tom-sachs-spaceships-book

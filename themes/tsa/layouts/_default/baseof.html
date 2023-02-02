@@ -22,7 +22,7 @@
 {{ $plyr:= resources.Get "plyr.css" | minify}}
 {{ $stork:= resources.Get "basic.css" | minify}}
 
-<style>{{ $pure.Content | safeCSS }}{{ $grid.Content | safeCSS }}{{ $style.Content | safeCSS }}{{ $plyr.Content | safeCSS }}{{ $stork.Content | safeCSS }}</style>
+<style>:root{--plyr-color-main: rgb(108, 75, 25);}{{ $pure.Content | safeCSS }}{{ $grid.Content | safeCSS }}{{ $style.Content | safeCSS }}{{ $plyr.Content | safeCSS }}{{ $stork.Content | safeCSS }}</style>
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -37,7 +37,7 @@
       <p class="donate">Donate <a href="https://donate.stripe.com/7sI8xw25P5AvdK83cg">once off</a> or <a href="https://buy.stripe.com/bIY9BAeSB7IDbC0006">recurringly</a></p>
     </div>
     <div class="header">
-      <a href="/"><img class="pure-img" src="/images/tsa-logo.webp" width="503" height="60" alt="Tom Sachs Archive Logo"></img></a>
+      <a href="/"><img class="pure-img" src="/images/tsa-logo2.webp" width="503" height="60" alt="Tom Sachs Archive Logo"></img></a>
     </div>
   </header>
   <div class="content">

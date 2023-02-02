@@ -79,19 +79,20 @@
     {{ partial "native-video-plyr.html" . }}
   {{ end }}
 
-  <div class="pure-g card-content">
-    <div class="pure-u-1-1">
+
     <p class="submit"><a href="/submit/submit">submit</a></p>
       {{ if .Params.nuggets }}
+      <div class="pure-g card-content">
+    <div class="pure-u-1-1">
       <h1>NUGGETS</h1>
-      <ul class="nuggets">
-        {{ range $nug_index, $nug := .Params.nuggets }}
-        <li>“{{ $nug }}”</li>
-        {{ end }}
-      </ul>
+      {{ range $nug_index, $nug := .Params.nuggets }}
+        <blockquote class="nuggets">“{{ $nug }}”</blockquote>
+      {{ end }}
+    </div></div>
       {{ end }}
 
       {{ if .Params.images }}
+      <div class="card-content">
       <h1>IMAGES</h1>
       <div class="pure-g">
         {{ range $img_index, $img := .Params.images }}
@@ -100,9 +101,14 @@
         <p id="title"></p>
         <p id="description"></p>
       </div>
+    </div>
       {{ end }}
 
-    <h1>TRANSCRIPT</h1>
-    {{ .Content | safeHTML }}
+    <div class="pure-g card-content">
+      <div class="pure-u-1-1">
+      <h1>TRANSCRIPT</h1>
+      {{ .Content | safeHTML }}
+    </div>
+  </div>
   </div></div>
 

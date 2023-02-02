@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(233, 224, 210);
+	background-color: rgb(240, 235, 231);
 	color: rgb(23, 31, 44);
 	border-left: 6px solid rgb(192, 56, 25);
 }
@@ -59,7 +59,7 @@ a:visited {
 
 .donate {
 	background-color: rgb(192, 56, 25);
-	color: rgb(233, 224, 210);
+	color: rgb(240, 235, 231);
 	text-align: right;
 	max-width: 787px;
 	padding-right: 13px;
@@ -69,7 +69,7 @@ a:visited {
 }
 
 .donate a {
-  color: rgb(233, 224, 210);
+  color: rgb(240, 235, 231);
 }
 
 .submit {
@@ -82,7 +82,7 @@ a:visited {
 }
 
 .header {
-	background-color: rgb(174, 123, 44);
+	background-color: rgb(108, 75, 25);
 	max-width: 800px;
 	padding-top: 10px;
 	padding-bottom: 0px;
@@ -91,12 +91,13 @@ a:visited {
 
 .content {
     font-family: Helvetica,Helvetica Neue,Arial,sans-serif !important;
-    font-size: 17px;
+    font-size: 18px;
     margin: 0;
     max-width: 800px;
     line-height: 1.6em;
-    background-color: rgb(238,216,130);
+    background-color: #eed882;
     color: rgb(23, 31, 44);
+    padding-bottom: 1em;
 }
 
 .footer {
@@ -149,28 +150,20 @@ a:visited {
 }
 
 .nuggets {
-	list-style: none;
-	padding-left: 0px;
-	margin-top: 9px;
-	font-style: italic;
-	line-height: 1.25em;
+	font-family: "Georgia", serif;
+  padding-left: 0em;
+  margin-left: 0em;
+  font-size: 18px;
+  font-style: italic;
+  margin-bottom: 2em !important;
+  margin-top: 1em !important;
+}
+blockquote:last-child {
+	margin-bottom: 0em !important;
 }
 
 .page {
 	display: none;
-}
-
-.page-nav .pure-button {
-	background-color: rgb(174, 123, 44);
-	color: rgb(233, 224, 210);
-}
-
-.page-nav {
-	text-align: center;
-}
-
-.nuggets li + li {
-	margin-top: 1.25em;
 }
 
 h1 + .nuggets {
@@ -178,6 +171,12 @@ h1 + .nuggets {
 	margin-bottom: 4em;
 }
 
+.card-content + .container {
+	margin-top: 3em;
+}
+.card-content + .card-content {
+	margin-top: 3em;
+}
 .card-content ul + h1 {
 	margin-top: 2.25em;
 }
@@ -214,6 +213,13 @@ h1 + .nuggets {
 	margin-bottom: 4px;
 }
 
+.pure-button {
+	background-color: rgb(108, 75, 25);
+	color: rgb(240, 235, 231);
+	padding-top: 2px;
+	padding-bottom: 3px;
+}
+
 
 .fluidMedia {
     position: relative;
@@ -233,19 +239,19 @@ h1 + .nuggets {
 }
 
 .card {
-	color: rgb(233, 224, 210);
-	background-color: rgb(174, 123, 44);
+	color: rgb(240, 235, 231);
+	background-color: rgb(108, 75, 25);
 	padding: 13px;
 	padding-top: 5px;
 	padding-bottom: 18px;
 }
 
 .card a:link {
-  color: rgb(233, 224, 210);
+  color: rgb(240, 235, 231);
 }
 
 .card a:visited {
-  color: rgb(192, 56, 25);
+  color: rgb(240, 235, 231);
 }
 
 .card-header {
