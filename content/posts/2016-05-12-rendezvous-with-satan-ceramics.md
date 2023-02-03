@@ -43,7 +43,7 @@ people:
 
 {{< jump "00:00:37">}} Porous Walker: I love how fast he goes. It's soo good.
 
-{{< jump "00:00:510">}} David Hopp: It's really not looking as bad as it should.
+{{< jump "00:00:51">}} David Hopp: It's really not looking as bad as it should.
 
 {{< jump "00:00:53">}} All: Laughing.
 
@@ -93,7 +93,7 @@ people:
 
 {{< jump "00:02:04">}} Tom Sachs: That was stressful man. It's just. It's just like engraving or anything else except like a little bit higher stakes.
 
-{{< jump "00:02:115">}} David Hopp: Are you sure you haven't done this before?
+{{< jump "00:02:12">}} David Hopp: Are you sure you haven't done this before?
 
 {{< jump "00:02:25">}} Mary Frey: This is how Tom gets so much shit done all the time, no?
 
@@ -115,7 +115,7 @@ people:
 
 {{< jump "00:03:10">}} Tom Sachs: Alright so. Oh. So. Ahhh. Do you want. I was going to sign it this way facing me, or do you want me to flip around so it's facing that way do you care?
 
-{{< jump "00:03:119">}} David Hopp: Uhhh. I don't.
+{{< jump "00:03:12">}} David Hopp: Uhhh. I don't.
 
 {{< jump "00:03:21">}} JJ Peet: That'd be nice
 
@@ -127,11 +127,11 @@ people:
 
 {{< jump "00:03:54">}} Tom Sachs: Oh my god. Is that OK?
 
-{{< jump "00:03:517">}} David Hopp: No. Actually can you take it back?
+{{< jump "00:03:52">}} David Hopp: No. Actually can you take it back?
 
 {{< jump "00:04:07">}} Mary Frey: That's so much love.
 
-{{< jump "00:04:018">}} David Hopp: Hold on, let me get a photo.
+{{< jump "00:04:02">}} David Hopp: Hold on, let me get a photo.
 
 {{< jump "00:04:08">}} Tom Sachs: That was amazing. Anyone else?
 
@@ -281,19 +281,19 @@ people:
 
 {{< jump "00:08:42">}} Mary Frey: Wow it's thickness.
 
-{{< jump "00:08:413">}} David Hopp: That's nice.
+{{< jump "00:08:41">}} David Hopp: That's nice.
 
 {{< jump "00:08:50">}} Mary Frey: Did that hurt?
 
-{{< jump "00:08:512">}} David Hopp: It feels amazing.
+{{< jump "00:08:51">}} David Hopp: It feels amazing.
 
 {{< jump "00:08:53">}} Mary Frey: Is that why your like in pain?
 
-{{< jump "00:08:515">}} David Hopp: Am I in pain? No I'm just I'm overweight and I'm a mouth breather.
+{{< jump "00:08:52">}} David Hopp: Am I in pain? No I'm just I'm overweight and I'm a mouth breather.
 
 {{< jump "00:09:05">}} Mary Frey: Oh I don't mean to put you in pain.
 
-{{< jump "00:09:017">}} David Hopp: No no no.
+{{< jump "00:09:02">}} David Hopp: No no no.
 
 {{< jump "00:09:14">}} Tom Sachs: Nice. It's perfect.
 
@@ -321,11 +321,11 @@ people:
 
 {{< jump "00:09:56">}} Mary Frey: That was so much fun.
 
-{{< jump "00:09:517">}} David Hopp: Awww. High five?
+{{< jump "00:09:52">}} David Hopp: Awww. High five?
 
 {{< jump "00:09:59">}} Mary Frey: That was great, it was live having sex for the first time.
 
-{{< jump "00:10:014">}} David Hopp: Uh. All over again. You need one of these.
+{{< jump "00:10:01">}} David Hopp: Uh. All over again. You need one of these.
 
 {{< jump "00:10:08">}} Mary Frey: Yeah. I mean my heart is beating.
 
