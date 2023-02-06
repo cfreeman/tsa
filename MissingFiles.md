@@ -1,5 +1,4 @@
 * ten rules of filmmaking.
-* tom sachs and adam savage talking room.
 * a conversation between tom sachs & sebastian errazuriz
 * tom sachs visting artists and scholars.
 * Tom Sachs: Space Program: Mars
@@ -26,6 +25,8 @@ https://www.youtube.com/watch?v=ew4X_ZVkmM8
 - https://ropac.net/press-documents/90/
 - https://ropac.net/press-documents/291/
 - https://podcasts.apple.com/us/podcast/ep-13-tom-sachs/id1517322794?i=1000505747041
+
+- https://www.bkkartbiennale.com/media/bab-talk-49-with-tom-sachs
 
 
 
