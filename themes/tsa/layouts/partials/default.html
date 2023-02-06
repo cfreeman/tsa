@@ -25,7 +25,26 @@
   <div class="fluidMedia">
     {{ $id := index (last 1 (split $url "/")) 0 }}
     <script type="module" src="/dist/js/lite-vimeo.js"></script>
-    <lite-vimeo videoid="{{ $id }}"></lite-vimeo>
+    <lite-vimeo id="player" videoid="{{ $id }}"></lite-vimeo>
+
+    <script src="https://player.vimeo.com/api/player.js"></script>
+    <script>
+      async function jump(timestamp) {
+        var a = timestamp.split(':');
+        var s = (+a[0]) * 60 * 60 + (+a[1]) * 60 + (+a[2]);
+
+
+        var button = document.querySelector('#player').shadowRoot.querySelector('button');
+        var style = window.getComputedStyle(button);
+        if (style.display !== 'none') {
+          button.click();
+        }
+
+        var iframe = document.querySelector('#player').shadowRoot.querySelector('iframe');
+        var player = new Vimeo.Player(iframe);
+        player.setCurrentTime(s);
+      }
+    </script>
   </div>
   {{ end }}
 
