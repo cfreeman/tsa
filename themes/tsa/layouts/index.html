@@ -1,24 +1,22 @@
 {{ define "main" }}
   {{ $section := where .Site.RegularPages "Section" "in" "posts" }}
-  <div class="card">
+  <div class="card" id="nug-card">
     <div class="stork-wrapper">
     <input id="search" data-stork="tsa" class="stork-input" placeholder="search" />
     <div data-stork="tsa-output" class="stork-output"></div>
     </div>
+    <h1 class="card-header">NUGGET</h1>
   </div>
 
+  <div class="pure-g card-content zine">
+  <div class="pure-u-1-1">
+    <a id="nug-link" href="#"><img id="nug-img" class="pure-img" src="https://tsa.nyc3.cdn.digitaloceanspaces.com/2020-05-19-office-hours-jigsaw-and-manet-notes.webp" alt="" loading="lazy"></a>
+  </div>
+  </div>
+
+  <p class="submit"><a href="/submit/submit">submit</a></p>
   <div class="pure-g card-content">
     <div class="pure-u-1-1">
-      <p class="submit"><a href="/submit/submit">submit</a></p>
-      <h1>NUGGET</h1>
-      <div class="feature">
-      <div class="pure-u-1-5">
-        <a id="img-uri" href=""><img id="image" class="pure-img" src="" alt=""></a>
-      </div><div class="pure-u-4-5">
-        <p id="title"></p>
-        <p id="description"></p>
-      </div>
-    </div>
 
     <h1>THE HAYSTACK</h1>
     <ul class="listing">
@@ -45,6 +43,7 @@
       stork.register("tsa", "https://tsa.nyc3.cdn.digitaloceanspaces.com/{{ $indexURL.File }}");
       {{ end }}
 
+      // Get a random card from the catalog.
       var card = await fetch("/posts/index.json").then( resp => {
         return resp.json()
       }).then(data => {
@@ -54,17 +53,46 @@
         console.log("ERR :-S", err);
       });
 
+      // Figure out what image to use as the icon.
+      var imgSrc = null;
       if (card.Images) {
-        document.getElementById("image").src = card.Images[0];
+        imgSrc = card.Images[0];
       } else if (card.Videos) {
         var cdn = card.Videos.filter(video => video.includes("tsa.nyc3.cdn"));
-        document.getElementById("image").src = cdn[0].replace(/\.[^/.]+$/, ".webp");
+        imgSrc = cdn[0].replace(/\.[^/.]+$/, ".webp");
       }
-      document.getElementById("image").alt = "Screenshot from "+card.Title;
 
-      document.getElementById("img-uri").href = card.URL;
-      document.getElementById("title").innerHTML = "<b><a href=\""+card.URL+"\">"+card.Title+"</a><b>";
-      document.getElementById("description").innerHTML = card.Description;
+      if (imgSrc) {
+        var image = document.getElementById("nug-img");
+        image.setAttribute("src", imgSrc);
+        image.setAttribute("alt", "Screenshot from " + card.Title);
+        document.getElementById("nug-link").setAttribute("href", card.URL);
+      }
+
+      var link = document.createElement("a");
+      link.setAttribute("href", card.URL);
+      link.appendChild(document.createTextNode(card.Title));
+
+      var title = document.createElement("p");
+      title.setAttribute("class", "card-date");
+      title.appendChild(link);
+      title.appendChild(document.createTextNode(" (" + card.Type + ")."));
+      document.getElementById("nug-card").appendChild(title);
+
+      if (card.Nuggets) {
+        // Get a random nugget from the card.
+        var nugI = rand(0, (card.Nuggets.length - 1));
+        var nug = document.createElement("blockquote");
+        nug.setAttribute("class", "card-quote")
+        nug.appendChild(document.createTextNode("“"+card.Nuggets[nugI]+"”"));
+        document.getElementById("nug-card").appendChild(nug);
+      } else {
+        // No nuggets - just use the description.
+        var desc = document.createElement("p");
+        desc.setAttribute("class", "card-description");
+        desc.appendChild(document.createTextNode(card.Description));
+        document.getElementById("nug-card").appendChild(desc);
+      }
     }
 
     main();

@@ -6,8 +6,10 @@
     "Title": "{{ .Title }}",
     "Description": "{{ .Description }}",
     "Date": "{{ .Date }}",
+    "Type": "{{ .Type }}",
     "Videos": {{ jsonify .Params.Videos }},
     "Images": {{ jsonify .Params.Images }},
+    "Nuggets": {{ jsonify .Params.Nuggets }},
     "URL": "{{ .Permalink }}"
     }
   {{end}}

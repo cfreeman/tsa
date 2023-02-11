@@ -18,7 +18,7 @@ nuggets:
 
 videos:
 - https://youtube.com/watch?v=sVwBQ5uCDqw
-- https://https://tsa.nyc3.cdn.digitaloceanspaces.com/2013-04-03-tom-sachs-on-zines.mp4
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2013-04-03-tom-sachs-on-zines.mp4
 
 people:
 - Tom Sachs
