@@ -19,14 +19,14 @@ images:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2022-11-22-spacecraft-p1.webp
 
 pages:
-- 2022-11-22-spacecraft-p1.webp
-- 2022-11-22-spacecraft-p2.webp
-- 2022-11-22-spacecraft-p3.webp
-- 2022-11-22-spacecraft-p4.webp
-- 2022-11-22-spacecraft-p5.webp
-- 2022-11-22-spacecraft-p6.webp
-- 2022-11-22-spacecraft-p7.webp
-- 2022-11-22-spacecraft-p8.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2022-11-22-spacecraft-p1.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2022-11-22-spacecraft-p2.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2022-11-22-spacecraft-p3.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2022-11-22-spacecraft-p4.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2022-11-22-spacecraft-p5.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2022-11-22-spacecraft-p6.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2022-11-22-spacecraft-p7.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2022-11-22-spacecraft-p8.webp
 
 people:
 - Tom Sachs

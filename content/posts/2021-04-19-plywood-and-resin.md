@@ -19,28 +19,28 @@ images:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p1.webp
 
 pages:
-- 2021-04-19-plywood-and-resin-p1.webp
-- 2021-04-19-plywood-and-resin-p2.webp
-- 2021-04-19-plywood-and-resin-p3.webp
-- 2021-04-19-plywood-and-resin-p4.webp
-- 2021-04-19-plywood-and-resin-p5.webp
-- 2021-04-19-plywood-and-resin-p6.webp
-- 2021-04-19-plywood-and-resin-p7.webp
-- 2021-04-19-plywood-and-resin-p8.webp
-- 2021-04-19-plywood-and-resin-p9.webp
-- 2021-04-19-plywood-and-resin-p10.webp
-- 2021-04-19-plywood-and-resin-p11.webp
-- 2021-04-19-plywood-and-resin-p12.webp
-- 2021-04-19-plywood-and-resin-p13.webp
-- 2021-04-19-plywood-and-resin-p14.webp
-- 2021-04-19-plywood-and-resin-p15.webp
-- 2021-04-19-plywood-and-resin-p16.webp
-- 2021-04-19-plywood-and-resin-p17.webp
-- 2021-04-19-plywood-and-resin-p18.webp
-- 2021-04-19-plywood-and-resin-p19.webp
-- 2021-04-19-plywood-and-resin-p20.webp
-- 2021-04-19-plywood-and-resin-p21.webp
-- 2021-04-19-plywood-and-resin-p22.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p1.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p2.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p3.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p4.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p5.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p6.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p7.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p8.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p9.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p10.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p11.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p12.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p13.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p14.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p15.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p16.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p17.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p18.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p19.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p20.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p21.webp
+- https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-04-19-plywood-and-resin-p22.webp
 
 videos:
 - https://tsa.nyc3.cdn.digitaloceanspaces.com/2021-07-08-iD-Zine.mp4

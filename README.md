@@ -19,7 +19,6 @@ hugo server --buildFuture --bind 0.0.0.0 -D
 
 
 ## TODO
-* Standardise all resource links to not need the absolute path to the CDN.
 * Add 'NUG ME' button.
 * Figure out some way to shim / reduce initial load on mobile for 3D view.
 * Look into compressing the search index.
@@ -29,6 +28,7 @@ hugo server --buildFuture --bind 0.0.0.0 -D
 * Add library card generator.
 * Work out some way to automatically prune search indexes from the CDN.
 
+* ~~Standardise all resource links to the absolute path to the CDN.~~
 * ~~Pull a random nugget out and display it alongside the nugget card.~~
 * ~~pull noteworthy tom sachs quotes out of archived material.~~
 * ~~Add quotes to metadata block~~

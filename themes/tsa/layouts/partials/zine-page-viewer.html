@@ -1,7 +1,7 @@
 <div class="pure-g card-content zine">
   <div class="pure-u-1-1">
     {{ range $img_index, $img := .Params.pages }}
-    <a id="page{{ $img_index }}" class="page" href="https://tsa.nyc3.cdn.digitaloceanspaces.com/{{ $img }}"><img class="pure-img" src="https://tsa.nyc3.cdn.digitaloceanspaces.com/{{ $img }}" alt="page {{ $img_index }}" loading="lazy"></a>
+    <a id="page{{ $img_index }}" class="page" href="{{ $img }}"><img class="pure-img" src="{{ $img }}" alt="page {{ $img_index }}" loading="lazy"></a>
     {{ end }}
 
     <p class="page-nav">
