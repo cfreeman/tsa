@@ -192,6 +192,7 @@ h1 + .nuggets {
 	display:grid;
 	place-items: center;
 	background-color: rgb(23, 31, 44);
+	height: 400px;
 }
 
 .zine div + h1 {
@@ -199,7 +200,18 @@ h1 + .nuggets {
 }
 
 .zine img {
+	max-height: 360px;
+}
+
+.nug, .nug div {
+	display: grid;
 	height: 380px;
+	background-color: rgb(23, 31, 44);
+	place-items: center;
+	padding: 0px;
+}
+
+.nug img {
 	max-height: 380px;
 }
 
@@ -307,8 +319,6 @@ h1 + .nuggets {
 		margin-right: 3px;
 	}
 
-
-
 	.content {
 		padding-left:0px;
 		padding-right:0px;
@@ -346,6 +356,22 @@ h1 + .nuggets {
 
 	.feature img {
 		float:none;
+	}
+
+	.zine div {
+		height: 300px;
+	}
+
+	.zine img {
+		max-height: 260px;
+	}
+
+	.nug, .nug div {
+		height: 280px;
+	}
+
+	.nug img {
+		max-height: 280px;
 	}
 
 	.footer {

@@ -19,7 +19,6 @@ hugo server --buildFuture --bind 0.0.0.0 -D
 
 
 ## TODO
-* Add 'NUG ME' button.
 * Figure out some way to shim / reduce initial load on mobile for 3D view.
 * Look into compressing the search index.
 * Update template to render the list of people in the metadata.
